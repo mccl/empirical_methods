@@ -1,0 +1,439 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in G Major
+!!!ONM: Opus 17, No. 5
+!!!OTL:
+!!!OMV: 3
+!!!SCT: H III:29
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Trautwein Edition
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*g:	*g:	*
+*clefF4	*clefC3	*clefG	*clefG	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+do	do	me	so	1
+r	r	r	do	2
+do	me	me	so	2
+=2	=2	=2	=2	=2
+ti	re	fa	le	1
+do	me	me	so	2
+r	r	r	r	2
+=3	=3	=3	=3	=3
+r	r	r	so	1
+re	fa	le	ti	2
+=4	=4	=4	=4	=4
+re	fa	le	ti	1
+me	me	so	do	2
+r	r	r	r	2
+=5	=5	=5	=5	=5
+r	r	r	so	1
+me	do	do	.	3
+me	do	do	fa	2
+me	do	do	re	3
+=6	=6	=6	=6	=6
+fa	do	le	do	1
+fa	do	.	.	3
+fa	do	.	.	2
+fa	do	.	.	3
+fa	do	so	te	2
+fa	do	me	so	3
+=7	=7	=7	=7	=7
+so	do	do	me	1
+so	so	.	.	3
+so	so	.	.	2
+so	so	.	.	3
+so	so	fa	re	2
+so	re	.	do	3
+=8	=8	=8	=8	=8
+do	re	fa	ti	1
+r	r	r	r	2
+=9	=9	=9	=9	=9
+r	r	r	so	1
+do	me	me	so	2
+=10	=10	=10	=10	=10
+ti	re	fa	le	1
+do	me	me	so	2
+r	r	r	r	2
+=11	=11	=11	=11	=11
+ra	ra	ra ra	ra ra	1
+do	do	do	do	4
+te	te	te	te	2
+le	le	le	le	3
+so	so	so	so	2
+fa	fa	fa	fa	3
+=12	=12	=12	=12	=12
+mi	mi	mi	mi	1
+mi	mi	so do	do	3
+mi	mi	do so	do	2
+r	r	r	r	2
+=13	=13	=13	=13	=13
+r	r	r	mi	1
+mi	so do	do so	.	4
+mi	so do	so do	te	2
+=14	=14	=14	=14	=14
+r	r	r	le	1
+=15	=15	=15	=15	=15
+r	r	r	le	1
+mi	mi	mi	.	3
+fa	fa	fa	.	2
+so	so	so	.	3
+=16	=16	=16	=16	=16
+le	le	le	r	1
+so	so	so	.	3
+fa	fa	fa	.	2
+me	me	me	.	3
+re	re	re	.	2
+do	do	do	.	3
+=17	=17	=17	=17	=17
+ti	ti	ti	r	1
+ti	so re	re	.	4
+ti	re so	re	.	2
+r	r	r	so	2
+=18	=18	=18	=18	=18
+r	r	r	la	1
+ti	re	so	.	3
+ti	re	so	.	2
+ti	re	so	.	3
+=19	=19	=19	=19	=19
+ti	re	so	r	1
+r	r	r	.	2
+=20	=20	=20	=20	=20
+r	r	r	te	1
+te	re	le fa	.	3
+te	re	le fa	.	2
+te	re	le fa	.	3
+=21	=21	=21	=21	=21
+te	re	le fa	r	1
+r	r	r	.	2
+=22	=22	=22	=22	=22
+r	r	r	se	1
+te	me	se	.	3
+te	me	se	.	2
+te	me	se	.	3
+=23	=23	=23	=23	=23
+de	me	se	se	1
+r	r	r	fa	2
+de	se	la me	me	3
+de	se	la me	r	2
+de	se	me la	.	3
+=24	=24	=24	=24	=24
+de	se	me la	r	1
+r	r	r	.	2
+=25	=25	=25	=25	=25
+r	r	r	se	1
+te	re	te fa	.	3
+te	re	te fa	.	2
+te	re	te fa	.	3
+=26	=26	=26	=26	=26
+te	re	te fa	r	1
+r	r	r	.	2
+=27	=27	=27	=27	=27
+me	te	so	te	1
+me	te	so	.	3
+me	te	so	me	2
+me	te	so	so	3
+me	te	so	fa	2
+me	te	so	re	3
+=28	=28	=28	=28	=28
+re	te	fa	te	1
+re	te	fa	.	3
+re	te	fa	le	2
+re	te	fa	.	3
+me	te	so	so	2
+me	te	so	.	3
+=29	=29	=29	=29	=29
+le	le	do	fa	1
+le	le	.	le	3
+te	te	so	te	2
+te	te	fa	le	3
+te	te	le	fa	2
+te	.	so	me	3
+=30	=30	=30	=30	=30
+me	le	fa	re	1
+r	so	so	te	2
+te	so	te	r	2
+=31	=31	=31	=31	=31
+me	me	so	te	1
+me	te	so	.	3
+me	te	so	me	2
+me	te	so	so	3
+me	te	so	fa	2
+me	te	so	re	3
+=32	=32	=32	=32	=32
+re	te	fa	te	1
+re	te	fa	.	3
+re	te	fa	le	2
+re	te	fa	.	3
+me	te	so	so	2
+me	te	me	te	3
+=33	=33	=33	=33	=33
+le	do	me	fa	1
+le	do	me	.	3
+le	do	me	do	2
+le	do	me	.	3
+le	do	me	.	2
+la	fa	do	me	3
+=34	=34	=34	=34	=34
+te	fa	te	re	1
+te	fa	te	.	3
+te	fa	re	te	2
+te	fa	re	.	3
+te	fa	re	.	2
+te	fa	re	.	3
+=35	=35	=35	=35	=35
+do	me	me	te	1
+do	me	me	la	3
+do	me	me	la	2
+do	me	me	.	3
+do	me	me	.	2
+do	me	me	.	3
+=36	=36	=36	=36	=36
+re	re	fa	le	1
+re	re	fa	.	3
+re	re	fa	.	2
+re	re	fa	.	3
+me	me	te	so	2
+me	me	te	.	3
+=37	=37	=37	=37	=37
+le	le	do	fa	1
+le	le	do	te	3
+te	te	so	me	2
+te	te	so	.	3
+te	te	fa	re	2
+r	r	r	te	3
+=38	=38	=38	=38	=38
+r	r	r	te	1
+do	me	me	la	3
+do	me	me	la	2
+do	me	me	.	3
+do	me	me	.	2
+do	me	me	.	3
+=39	=39	=39	=39	=39
+re	re	te	le	1
+re	re	te	.	3
+re	re	te	.	2
+re	re	te	.	3
+me	me	te	so	2
+me	me	so	.	3
+=40	=40	=40	=40	=40
+le	me	so	do	1
+le	me	so	.	3
+le	fa	fa	.	2
+le	fa	fa	.	3
+le	do	fa	te	2
+le	do	fa	so	3
+=41	=41	=41	=41	=41
+le	re	fa	te	1
+le	re	fa	.	3
+so	me	me	.	2
+r	r	r	so	2
+so	so	me	te	3
+=42	=42	=42	=42	=42
+le	le	me	do	1
+la	la	la	.	4
+te	te	te	te	2
+te	te	me	.	3
+te	te	.	fa	2
+te	te	re	.	3
+=43	=43	=43	=43	=43
+me	me	me	me	1
+me	me	me	.	3
+me	me	te	ra	2
+me	me	te	.	3
+me	so	te	.	2
+me	so	so	ti	3
+=44	=44	=44	=44	=44
+me	le	me	ti	1
+me	le	.	.	3
+me	le	.	do	2
+me	le	.	.	3
+me	le	do	le	2
+me	le	re	so	3
+=45	=45	=45	=45	=45
+me	le	re	fa	1
+r	r	r	r	2
+=46	=46	=46	=46	=46
+r	r	r	so	1
+do	me	me	so	2
+=47	=47	=47	=47	=47
+ti	re	fa	le	1
+do	me	me	so	2
+r	r	r	r	2
+=48	=48	=48	=48	=48
+r	r	r	so	1
+re	fa	le	ti	2
+=49	=49	=49	=49	=49
+re	fa	le	ti	1
+me	me	so	do	2
+r	r	r	r	2
+=50	=50	=50	=50	=50
+r	r	r	so	1
+te	te	ra	mi	2
+=51	=51	=51	=51	=51
+te	te	ra	mi	1
+le	le	do	fa	2
+do	do	do	do	4
+fa	fa	fa	fa	2
+mi	mi	mi	mi	3
+=52	=52	=52	=52	=52
+le	le	le	le	1
+so	so	so	so	3
+fa	fa	fa	fa	2
+me	me	me	me	3
+re	re	re	re	2
+do	do	do	do	3
+=53	=53	=53	=53	=53
+ti	ti	ti	ti	1
+ti	so	re	.	4
+ti	so	re	r	2
+r	r	r	.	2
+=54	=54	=54	=54	=54
+r	r	r	so	1
+=55	=55	=55	=55	=55
+r	r	r	r	1
+=56	=56	=56	=56	=56
+r	r	r	r	1
+=57	=57	=57	=57	=57
+r	r	r	me	1
+do	me	so	.	3
+do	me	so	.	2
+do	me	so	.	3
+=58	=58	=58	=58	=58
+do	me	le	do	1
+r	r	r	.	2
+=59	=59	=59	=59	=59
+r	r	r	le	1
+=60	=60	=60	=60	=60
+r	r	r	le	1
+=61	=61	=61	=61	=61
+r	r	r	se	1
+=62	=62	=62	=62	=62
+r	r	r	se	1
+ra	fa	le	.	3
+ra	fa	le	.	2
+ra	fa	le	.	3
+=63	=63	=63	=63	=63
+ra	fa	le	ra	1
+r	r	r	.	2
+=64	=64	=64	=64	=64
+r	r	r	la	1
+do	se	me la	.	3
+do	se	la me	.	2
+do	se	la me	.	3
+=65	=65	=65	=65	=65
+do	se	la me	me	1
+r	r	r	.	2
+=66	=66	=66	=66	=66
+r	r	r	te	1
+ra	fa	te	.	3
+ra	fa	te	.	2
+ra	fa	te	.	3
+=67	=67	=67	=67	=67
+ra	fa	te	fa	1
+r	r	r	.	2
+=68	=68	=68	=68	=68
+r	r	r	ti	1
+=69	=69	=69	=69	=69
+r	r	r	le	1
+r	r	r	.	2
+so	fa	re	ti	3
+=70	=70	=70	=70	=70
+me	me	do	do	1
+me	so	do	.	3
+me	so	do	do	2
+me	so	do	te	3
+me	me	do	le	2
+me	me	do	so	3
+=71	=71	=71	=71	=71
+re	re	do	so	1
+re	re	.	fi	3
+re	re	me	fi	2
+re	re	me	.	3
+re	re	re	.	2
+re	re	do	.	3
+=72	=72	=72	=72	=72
+so	re	do	fa	1
+so	re	ti	.	3
+so	re	ti	re	2
+so	re	.	ti	3
+so	re	.	le	2
+so	re	.	fa	3
+=73	=73	=73	=73	=73
+do	do	do	me	1
+do	so	do	.	3
+te	so	do	mi	2
+te	so	do	.	3
+te	so	do	.	2
+te	so	do	.	3
+=74	=74	=74	=74	=74
+la	fa	do	fa	1
+la	fa	do	.	3
+le	do	me	fi	2
+le	do	fi	.	3
+le	do	re	.	2
+le	do	do	.	3
+=75	=75	=75	=75	=75
+so	re	ti	so	1
+so	re	ti	.	3
+fa	re	ti	le	2
+fa	re	ti	.	3
+fa	le	re	ti	2
+fa	le	re	.	3
+=76	=76	=76	=76	=76
+me	so	so	do	1
+me	so	so	.	3
+me	so	so	.	2
+r	r	r	re	2
+me	me	do	do	3
+=77	=77	=77	=77	=77
+fa	fa	do	le	1
+fi	fi	fi	.	4
+so	so	so	so	2
+so	so	do	.	3
+so	so	ti	re	2
+so	so	ti	.	3
+=78	=78	=78	=78	=78
+do	do	do	do	1
+do	do	.	.	3
+do	do	le	fa	2
+do	do	.	.	3
+do	do	.	.	2
+do	do	fa	re	3
+=79	=79	=79	=79	=79
+do	do	me	do	1
+do	.	.	.	3
+do	ti	fa	le	2
+do	.	.	.	3
+do	.	.	.	2
+do	fa	re	fa	3
+=80	=80	=80	=80	=80
+do	fa	ti	re	1
+r	r	r	r	2
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Divertimentos
+!!!OPT: Recitative
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 3117149616
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

@@ -1,0 +1,434 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!OPR: Quartet in B-flat Major
+!!!OTL: Andante
+!!!OMV: 1
+!!!SCT: K 159
+!!!SCA: Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amade Mozarts (L. von Köchel; 1862, 2/1905, 3/1937, 1947)
+!!!YOR: Breitkopf & Härtel Edition
+!!!ENC: Edmund Correia, Jr.
+!!!CDT: 1756/1/27/-1791/12/5/
+!!!OCY: Österreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**metpos
+*I:Violoncello	*I:Violoncello	*I:Viola	*I:Viola	*I:Violino 2	*I:Violino 2	*I:Violino 1	*I:Violino 1	*
+*>[A,A,B,B]	*	*>[A,A,B,B]	*	*>[A,A,B,B]	*	*>[A,A,B,B]	*	*
+*>A	*	*>A	*	*>A	*	*>A	*	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
+! Andante	!	! Andante	!	! Andante	!	! Andante	!	!
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+do	f	mi	f	so	f	r	.	1
+ti	.	re	.	r	.	.	.	2
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+la	.	do	.	do	.	r	.	1
+mi	.	so	.	r	.	.	.	2
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+fa	.	la	.	re	.	r	.	1
+so	.	ti	.	r	.	.	.	2
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+la	.	mi	.	do	.	r	.	1
+r	.	mi	.	do	.	.	.	3
+!	!	! (32e-P/LLL	!	! (32ggP/LLL	!	!	!	!
+!	!	! 32fP/JJJ	!	! 32aaP/JJJ	!	!	!	!
+fa	.	la	.	do	.	.	.	2
+la	.	.	.	.	.	.	.	3
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	! 16e-P/	!	! 16ggP/	!	!	!	!
+do	.	mi	.	so	.	r	.	1
+r	.	do	.	mi	.	.	.	3
+!	!	! (32e-P/LLL	!	! (32ggP/LLL	!	!	!	!
+!	!	! 32fP/JJJ	!	! 32aaP/JJJ	!	!	!	!
+fa	.	la	.	do	.	.	.	2
+la	.	.	.	.	.	.	.	3
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	! 16e-P/	!	! 16ggP/	!	!	!	!
+do	.	mi	.	so	.	r	.	1
+r	.	do	.	mi	.	.	.	3
+mi	.	do	.	do	.	.	.	2
+re	.	ti	.	re	.	.	.	3
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+do	.	do	.	mi	.	r	.	1
+do	.	.	.	.	.	.	.	3
+fa	.	.	.	.	.	.	.	2
+so	.	.	.	.	.	.	.	3
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+do	.	mi	.	do	.	r	.	1
+r	.	so	.	mi	.	.	.	3
+mi	.	do	.	do	.	.	.	2
+re	.	ti	.	re	.	.	.	3
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+do	.	do	.	mi	.	so	f	1
+do	.	.	.	.	.	so	.	3
+so	.	.	.	.	.	r	.	2
+so	.	.	.	.	.	ti	.	3
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+la	.	re	.	fi	.	do	.	1
+la	.	re	.	fi	.	.	.	4
+la	.	re	.	fi	.	do	.	3
+la	.	re	.	fi	.	.	.	4
+la	.	re	.	fi	.	r	.	2
+la	.	re	.	fi	.	.	.	4
+la	.	re	.	fi	.	do	.	3
+la	.	re	.	fi	.	do	.	4
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+re	.	do	.	la	.	fi	.	1
+re	.	do	.	la	.	.	.	4
+re	.	do	.	la	.	fi	.	3
+re	.	do	.	la	.	.	.	4
+re	.	la	.	fi	.	r	.	2
+re	.	la	.	fi	.	.	.	4
+re	.	la	.	fi	.	la	.	3
+re	.	la	.	fi	.	la	.	4
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+so	.	so	.	so	.	ti	.	1
+r	.	r	.	so	.	ti	.	3
+!	!	! (32B-P/LLL	!	! (32dP/LLL	!	! (32ddP/LLL	!	!
+!	!	! 32cP/JJJ	!	! 32enP/JJJ	!	! 32eenP/JJJ	!	!
+do	.	mi	.	so	.	so	.	2
+mi	.	.	.	.	.	.	.	3
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	! 16B-P/	!	! 16dP/	!	! 16ddP/	!	!
+so	.	ti	.	re	.	re	.	1
+r	.	so	.	ti	.	ti	.	3
+!	!	! (32B-P/LLL	!	! (32dP/LLL	!	! (32ddP/LLL	!	!
+!	!	! 32cP/JJJ	!	! 32enP/JJJ	!	! 32eenP/JJJ	!	!
+do	.	mi	.	so	.	so	.	2
+mi	.	.	.	.	.	.	.	3
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+!	!	! 16B-P/	!	! 16dP/	!	! 16ddP/	!	!
+so	.	ti	.	re	.	re	.	1
+r	.	so	.	ti	.	ti	.	3
+so	.	so	.	ti	.	so	.	2
+re	.	la	.	fi	.	la	.	3
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+r	.	ti	.	so	.	ti	.	1
+so	.	.	.	.	.	.	.	3
+do	.	do	.	mi	.	do	.	2
+di	.	so	.	ti	.	so	.	4
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+!	!	! 16fP/	!	! 16aP/	!	! 16ffP/	!	!
+re	.	fi	.	la	.	fi	.	1
+r	.	re	.	fi	.	re	.	3
+r	.	r	.	ri	p	ri	p	2
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+re	.	fi	.	la	f	la	f	1
+so	.	so	.	ti	.	ti	.	3
+r	.	r	.	ri	p	ri	p	2
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+re	.	fi	.	la	f	la	f	1
+so	.	so	.	ti	.	ti	.	3
+r	.	r	.	ti	.	re	.	2
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+r	.	r	.	ti	.	re	.	1
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+r	.	r	.	do	.	mi	.	1
+do	p	re	p	fi	p	la	p	2
+ti	.	.	.	so	.	ti	.	3
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+la	.	r	.	la	.	do	.	1
+fi	fp	la	fp	do	fp	mi	fp	4
+so	.	re	.	ti	.	re	.	4
+do	p	mi	p	r	.	r	.	2
+re	.	re	.	so	.	ti	.	3
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+so	.	re	.	fi	.	li	.	1
+do	.	re	.	fi	.	la	.	2
+ti	.	.	.	so	.	ti	.	3
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+la	.	r	.	la	.	do	.	1
+fi	fp	la	fp	do	fp	mi	fp	4
+so	.	re	.	ti	.	re	.	4
+do	p	mi	p	r	.	r	.	2
+re	.	re	.	so	.	ti	.	3
+do	.	.	.	fi	.	la	.	4
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+ti	f	r	.	r	.	r	.	1
+r	.	.	.	.	.	.	.	3
+do	.	r	.	r	.	r	.	2
+r	.	.	.	.	.	.	.	3
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+re	p	ti	p	re	p	re	p	1
+re	.	r	.	r	.	r	.	2
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+ti	f	r	.	r	.	r	.	1
+r	.	.	.	.	.	.	.	3
+do	.	r	.	r	.	r	.	2
+r	.	.	.	.	.	.	.	3
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+re	p	ti	p	re	p	re	p	1
+re	.	r	.	r	.	r	.	2
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+so	.	so	.	ti	.	so	.	1
+fi	.	fi	.	r	.	fi	.	4
+so	.	so	.	so	.	so	.	3
+la	.	la	.	la	.	la	.	4
+ti	.	ti	.	ti	.	ti	.	2
+do	.	do	.	do	.	do	.	4
+re	.	re	.	re	.	re	.	3
+mi	.	mi	.	mi	.	mi	.	4
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+fa	.	fa	.	fa	.	fa	.	1
+r	.	r	.	r	.	r	.	4
+re	.	re	.	re	.	re	.	3
+r	.	r	.	r	.	r	.	4
+ti	.	ti	.	ti	.	ti	.	2
+r	.	r	.	r	.	r	.	4
+r	.	r	.	r	.	r	.	3
+=30:!!:	=30:!!:	=30:!!:	=30:!!:	=30:!!:	=30:!!:	=30:!!:	=30:!!:	=30:!!:
+*>B	*	*>B	*	*>B	*	*>B	*	*
+mi	f	mi	f	si	f	ti	f	1
+r	.	r	.	mi	.	si	.	3
+r	.	r	.	do	.	mi	.	2
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+la	.	do	.	la	.	do	.	1
+ti	.	re	.	.	.	.	.	4
+do	.	mi	.	.	.	.	.	5
+ti	.	re	.	.	.	.	.	6
+do	.	mi	.	r	.	r	.	3
+re	.	fa	.	.	.	.	.	4
+mi	.	so	.	.	.	.	.	5
+re	.	fa	.	.	.	.	.	6
+mi	.	si	.	r	.	r	.	2
+fa	.	la	.	.	.	.	.	4
+so	.	ti	.	.	.	.	.	5
+fa	.	la	.	.	.	.	.	6
+si	.	ti	.	.	.	.	.	3
+la	.	do	.	.	.	.	.	4
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+re	.	la	.	fi	.	la	.	1
+r	.	r	.	re	.	fi	.	3
+r	.	r	.	ti	.	re	.	2
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+so	.	ti	.	so	.	ti	.	1
+la	.	do	.	.	.	.	.	4
+ti	.	re	.	.	.	.	.	5
+la	.	do	.	.	.	.	.	6
+ti	.	re	.	r	.	r	.	3
+do	.	mi	.	.	.	.	.	4
+re	.	fi	.	.	.	.	.	5
+do	.	mi	.	.	.	.	.	6
+re	.	fi	.	r	.	r	.	2
+mi	.	so	.	.	.	.	.	4
+fi	.	la	.	.	.	.	.	5
+mi	.	so	.	.	.	.	.	6
+fi	.	la	.	.	.	.	.	3
+so	.	ti	.	.	.	.	.	4
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+do	.	mi	.	mi	.	so	.	1
+r	.	r	.	do	.	mi	.	3
+r	.	r	.	la	.	do	.	2
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+r	.	r	.	fa	.	la	.	1
+fa	.	la	.	.	.	.	.	4
+mi	.	si	.	r	.	r	.	3
+fa	.	la	.	.	.	.	.	4
+r	.	r	.	si	p	si	p	2
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+so	.	te	.	di	f	di	f	1
+fa	.	la	.	re	.	re	.	3
+r	.	r	.	fi	p	fi	p	2
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+fa	.	re	.	ti	f	ti	f	1
+mi	.	so	.	do	.	do	.	3
+fa	p	so	p	ti	p	re	p	2
+mi	.	.	.	di	.	mi	.	3
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+re	.	r	.	re	.	fa	.	1
+ti	fp	re	fp	fa	fp	la	fp	4
+do	.	mi	.	mi	.	so	.	4
+fa	p	la	p	r	.	r	.	2
+fi	.	.	.	do	.	mi	.	4
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+so	f	ti	.	ti	.	re	.	1
+r	.	.	.	.	.	.	.	3
+so	.	r	.	r	.	r	.	2
+r	.	.	.	.	.	.	.	3
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+so	p	so	p	ti	p	re	p	1
+re	.	.	.	r	.	r	.	2
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+so	f	ti	.	r	.	r	.	1
+r	.	.	.	.	.	.	.	3
+so	.	r	.	r	.	r	.	2
+r	.	.	.	.	.	.	.	3
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+so	p	so	p	ti	p	re	p	1
+re	.	.	.	r	.	r	.	2
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+so	.	ti	.	so	.	so	.	1
+fi	.	.	.	fi	.	fi	.	4
+so	.	so	.	so	.	so	.	3
+la	.	la	.	la	.	la	.	4
+ti	.	ti	.	ti	.	ti	.	2
+do	.	do	.	do	.	do	.	4
+re	.	re	.	re	.	re	.	3
+mi	.	mi	.	mi	.	mi	.	4
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+fa	.	fa	.	fa	.	fa	.	1
+r	.	r	.	r	.	r	.	4
+re	.	re	.	re	.	re	.	3
+r	.	r	.	r	.	r	.	4
+ti	.	ti	.	ti	.	ti	.	2
+r	.	r	.	r	.	r	.	4
+r	.	r	.	r	.	r	.	3
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+do	f	mi	f	so	f	r	.	1
+ti	.	re	.	r	.	.	.	2
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+la	.	do	.	do	.	r	.	1
+mi	.	so	.	r	.	.	.	2
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+fa	.	la	.	re	.	r	.	1
+so	.	ti	.	r	.	.	.	2
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+la	.	mi	.	do	.	r	.	1
+r	.	mi	.	do	.	.	.	3
+!	!	! (32e-P/LLL	!	! (32ggP/LLL	!	!	!	!
+!	!	! 32fP/JJJ	!	! 32aaP/JJJ	!	!	!	!
+fa	.	la	.	do	.	.	.	2
+la	.	.	.	.	.	.	.	3
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+!	!	! 16e-P/	!	! 16ggP/	!	!	!	!
+do	.	mi	.	so	.	r	.	1
+r	.	do	.	mi	.	.	.	3
+!	!	! (32e-P/LLL	!	! (32ggP/LLL	!	!	!	!
+!	!	! 32fP/JJJ	!	! 32aaP/JJJ	!	!	!	!
+fa	.	la	.	do	.	.	.	2
+la	.	.	.	.	.	.	.	3
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+!	!	! 16e-P/	!	! 16ggP/	!	!	!	!
+do	.	mi	.	so	.	r	.	1
+r	.	do	.	mi	.	.	.	3
+mi	.	do	.	do	.	.	.	2
+re	.	ti	.	re	.	.	.	3
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+do	.	do	.	mi	.	r	.	1
+do	.	.	.	.	.	.	.	3
+fa	.	.	.	.	.	.	.	2
+so	.	.	.	.	.	.	.	3
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+do	.	mi	.	do	.	do	.	1
+te	.	so	.	mi	.	do	.	3
+la	.	la	.	fa	.	r	.	2
+fa	.	do	.	la	.	do	.	3
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+so	.	so	.	re	.	te	.	1
+te	.	so	.	re	.	so	.	3
+do	.	so	.	do	.	mi	.	2
+mi	.	so	.	do	.	te	.	3
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+fa	.	la	.	do	.	la	.	1
+r	.	do	.	fa	.	la	.	3
+!	!	! (32A-P/LLL	!	! (32cP/LLL	!	! (32ccP/LLL	!	!
+!	!	! 32B-P/JJJ	!	! 32dP/JJJ	!	! 32ddP/JJJ	!	!
+te	.	re	.	fa	.	fa	.	2
+re	.	.	.	.	.	.	.	3
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+!	!	! 16A-P/	!	! 16cP/	!	! 16ccP/	!	!
+fa	.	la	.	do	.	do	.	1
+r	.	fa	.	la	.	la	.	3
+!	!	! (32A-P/LLL	!	! (32cP/LLL	!	! (32ccP/LLL	!	!
+!	!	! 32B-P/JJJ	!	! 32dP/JJJ	!	! 32ddP/JJJ	!	!
+te	.	re	.	fa	.	fa	.	2
+re	.	.	.	.	.	.	.	3
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+!	!	! 16A-P/	!	! 16cP/	!	! 16ccP/	!	!
+fa	.	la	.	do	.	do	.	1
+r	.	fa	.	la	.	la	.	3
+la	.	do	.	do	.	fa	.	2
+so	.	.	.	mi	.	so	.	3
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+fa	.	do	.	fa	.	la	.	1
+fa	.	fa	.	.	.	.	.	3
+fa	.	.	.	la	.	do	.	2
+fa	.	la	.	mi	.	so	.	3
+fi	.	.	.	.	.	.	.	4
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+so	.	so	.	do	.	mi	.	1
+so	.	.	.	ti	.	re	.	3
+r	.	r	.	si	p	si	p	2
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+so	.	ti	.	re	f	re	f	1
+do	.	do	.	mi	.	mi	.	3
+r	.	r	.	si	p	si	p	2
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+so	.	ti	.	re	f	re	f	1
+do	.	do	.	mi	.	mi	.	3
+r	.	r	.	do	.	mi	.	2
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+r	.	r	.	do	.	mi	.	1
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+r	.	r	.	re	.	fa	.	1
+fa	p	so	p	ti	p	re	p	2
+mi	.	.	.	do	.	mi	.	3
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+re	.	r	.	re	.	fa	.	1
+ti	fp	re	fp	fa	fp	la	fp	4
+do	.	so	.	mi	.	so	.	4
+fa	p	la	p	r	.	r	.	2
+so	.	so	.	do	.	mi	.	3
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+do	.	so	.	ti	.	ri	.	1
+fa	.	so	.	ti	.	re	.	2
+mi	.	.	.	do	.	mi	.	3
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+re	.	r	.	re	.	fa	.	1
+ti	fp	re	fp	fa	fp	la	fp	4
+do	.	so	.	mi	.	so	.	4
+fa	p	la	p	r	.	r	.	2
+so	.	so	.	do	.	mi	.	3
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+do	f	mi	.	r	.	r	.	1
+r	.	.	.	.	.	.	.	3
+fa	.	r	.	r	.	r	.	2
+r	.	.	.	.	.	.	.	3
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+so	p	mi	p	so	p	so	p	1
+so	.	r	.	r	.	r	.	2
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+do	f	r	.	r	.	r	.	1
+r	.	.	.	.	.	.	.	3
+fa	.	r	.	r	.	r	.	2
+r	.	.	.	.	.	.	.	3
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+so	p	do	.	mi	p	so	p	1
+so	.	.	.	r	.	r	.	2
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+do	.	mi	.	do	.	do	.	1
+ti	.	.	.	ti	.	ti	.	4
+do	.	do	.	do	.	do	.	3
+re	.	re	.	re	.	re	.	4
+mi	.	mi	.	mi	.	mi	.	2
+fa	.	fa	.	fa	.	fa	.	4
+so	.	so	.	so	.	so	.	3
+mi	.	mi	.	mi	.	mi	.	4
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+do	.	do	.	do	.	do	.	1
+r	.	r	.	r	.	r	.	4
+mi	.	mi	.	mi	.	mi	.	3
+r	.	r	.	r	.	r	.	4
+do	.	do	.	do	.	do	.	2
+r	.	r	.	r	.	r	.	4
+r	.	r	.	r	.	r	.	3
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Appoggiaturas of spine 'Violino 1' need manual editing in measures: 12, 13, 13, 14, 16, 54, 55, 55, 56
+!!!RWG: Appoggiaturas of spine 'Violino 2' need manual editing in measures: 4, 5, 5, 6, 12, 13, 13, 14, 16, 48, 49, 49, 50, 54, 55, 55, 56
+!!!RWG: Appoggiaturas of spine 'Viola' need manual editing in measures: 4, 5, 5, 6, 12, 13, 13, 14, 16, 48, 49, 49, 50, 54, 55, 55, 56
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!AFT: stage2
+!!!END: 1994/06/13
+!!!KEY: 1309059632
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

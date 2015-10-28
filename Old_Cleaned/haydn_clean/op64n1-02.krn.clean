@@ -1,0 +1,333 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in C Major
+!!!ONM: Opus 64, No. 1
+!!!OTL: Menuetto
+!!!OMV: 2
+!!!SCT: H III:65
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Dover Edition; reprint of Eulenburg Edition
+!!!ENC: Walter Hewlett
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**metpos
+*I:Violoncello	*I:Violoncello	*I:Viola	*I:Viola	*I:Violino II	*I:Violino II	*I:Violino I	*I:Violino I	*
+*>[A,A,B,B,C,A,A,B,B,C,D,D]	*	*>[A,A,B,B,C,A,A,B,B,C,D,D]	*	*>[A,A,B,B,C,A,A,B,B,C,D,D]	*	*>[A,A,B,B,C,A,A,B,B,C,D,D]	*	*
+*>A	*	*>A	*	*>A	*	*>A	*	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*
+*C:	*	*C:	*	*C:	*	*C:	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+! Allegretto ma non troppo	!	! Allegretto ma non troppo	!	! Allegretto ma non troppo	!	! Allegretto ma non troppo	!	!
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+so	f	r	.	r	.	r	.	1
+r	.	r	.	r	.	r	.	2
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+do	.	r	.	r	.	r	.	1
+mi	.	.	.	mi	f	so	f	2
+so	.	.	.	mi	.	so	.	2
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+do	.	r	.	mi	.	so	.	1
+mi	.	.	.	.	.	.	.	2
+re	.	.	.	.	.	.	.	2
+do	.	.	.	.	.	.	.	4
+ti	.	.	.	.	.	.	.	3
+la	.	.	.	.	.	.	.	4
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+so	.	r	.	mi	.	so	.	1
+so	.	.	.	fa	.	la	.	2
+si	.	.	.	re	.	fa	.	2
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+si	.	r	.	re	.	fa	.	1
+la	.	.	.	do	.	mi	.	2
+fa	.	.	.	r	.	r	.	2
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+la	.	r	.	r	.	r	.	1
+di	.	la	f	do	.	re	.	2
+re	.	fa	.	do	.	re	.	2
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+fa	.	re	.	do	.	re	.	1
+so	.	mi	.	.	.	.	.	2
+la	.	fi	.	.	.	.	.	2
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+so	.	so	.	do	.	re	.	1
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+do	.	mi	.	do	.	do	.	1
+do	.	r	.	r	.	r	.	2
+=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:
+*>B	*	*>B	*	*>B	*	*>B	*	*
+r	.	r	.	r	.	ti	.	1
+r	.	r	.	r	.	r	.	2
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+fa	.	so	.	ti	.	re	.	1
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+mi	.	so	.	do	.	do	.	1
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+ti	.	so	.	re	.	re	.	1
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+do	.	so	.	mi	.	mi	.	1
+ti	.	.	.	re	.	so	.	2
+la	.	la	.	do	.	ti	.	2
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+so	.	ti	.	ti	.	re	.	1
+la	.	.	.	do	.	.	.	3
+ti	.	.	.	re	.	.	.	2
+do	.	.	.	mi	.	.	.	3
+re	.	la	.	fi	.	do	.	2
+mi	.	so	.	so	.	ti	.	3
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+do	.	mi	.	so	.	la	.	1
+di	.	so	.	mi	.	la	.	2
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+re	.	so	.	re	.	la	.	1
+re	.	la	.	do	.	fi	.	2
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+so	.	so	.	ti	.	so	.	1
+so	.	r	.	r	.	r	.	2
+r	.	so	p	ti	p	so	p	2
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+r	.	ti	.	re	.	ti	.	1
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+r	.	do	.	mi	.	do	.	1
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+r	.	r	.	fi	.	fi	.	1
+ti	p	re	.	la	.	la	.	2
+do	.	do	.	fa	.	fa	.	2
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+so	.	ti	.	re	.	re	.	1
+so	.	r	.	r	.	r	.	2
+r	.	r	.	so	f	so	f	2
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+r	.	r	.	do	.	do	.	1
+r	.	r	.	mi	.	mi	.	2
+do	f	mi	f	so	.	so	.	2
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+do	.	mi	.	do	.	do	.	1
+do	.	mi	.	mi	.	mi	.	2
+do	.	mi	.	re	.	re	.	2
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+ti	.	re	.	so	.	so	.	1
+ti	.	re	.	so	.	so	.	2
+ti	z	re	z	fa	z	si	z	2
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+la	.	re	.	fa	.	si	.	1
+la	z	do	z	me	z	fi	z	2
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+so	.	do	.	me	.	fi	.	1
+so	z	te	z	do	z	mi	z	2
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+fa	.	te	.	do	.	mi	.	1
+r	.	r	.	r	.	la	.	2
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+r	.	r	.	r	.	la	.	1
+di	.	.	.	r	.	mi	.	2
+re	.	.	.	la	.	fa	.	2
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+re	.	r	.	la	.	fa	.	1
+!	!	! dim.	!	!	!	!	!	!
+mi	.	la	.	so	.	di	.	2
+! dim.	!	!	!	! dim.	!	! dim.	!	!
+fa	.	la	.	fa	.	re	.	2
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+so	.	do	.	mi	.	do	.	1
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+so	<]	re	<	fa	<	ti	<	1
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+si	>	ti	>	re	>	fa	>	1
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+la	]	do	]	do	]	mi	]	1
+r	.	r	.	r	.	r	.	2
+r	.	r	.	mi	f	mi	f	2
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+r	.	r	.	mi	.	mi	.	1
+r	.	r	.	ti	.	ti	.	2
+mi	f	so	f	do	.	do	.	2
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+mi	.	so	.	do	.	do	.	1
+ti	.	re	.	si	.	si	.	2
+do	.	mi	.	la	.	la	.	2
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+si	.	ti	.	mi	.	mi	.	1
+la	.	do	.	fa	.	fa	.	2
+mi	.	so	.	di	.	di	.	2
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+fa	>	la	>	re	>	re	>	1
+mi	.	so	.	mi	.	mi	.	2
+re	]	fa	]	fa	]	fa	]	2
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+so	p	so	p	mi	p	do	p	1
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+si	f>]	ti	f>]	re	f>]	fa	f>]	1
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+la	.	la	.	re	.	fa	.	1
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+le	f	me	f	do	f	fi	f	1
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+so	.	mi	.	do	.	so	.	1
+so	p	so	p	mi	p	ti	p	2
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+do	.	mi	.	do	.	do	.	1
+r	.	r	.	r	.	r	.	2
+r	.	do	pp	me	pp	fi	pp	2
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+r	.	so	.	mi	.	so	.	1
+r	.	r	.	r	.	r	.	2
+so so	f	so	f	fa so	f	ti re	f	2
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+do do	.	do	.	mi so	.	do mi	.	1
+r	.	r	.	r	.	r	.	2
+! Fine	!	! Fine	!	! Fine	!	! Fine	!	!
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*>C	*	*>C	*	*>C	*	*>C	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*c:	*	*c:	*	*c:	*	*c:	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4
+! Trio	!	! Trio	!	! Trio	!	! Trio	!	!
+r	.	so	p	r	.	r	.	1
+r	.	r	.	r	.	r	.	2
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+do	p	do	.	r	.	r	.	1
+do	.	me	.	.	.	.	.	2
+do	.	so	.	.	.	.	.	2
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+ti	.	le	.	r	.	r	.	1
+r	.	r	.	ti	p	so	p	2
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+r	.	r	.	re	.	so	.	1
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+r	.	r	.	ti	.	fa	.	1
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+le	.	le	.	r	.	r	.	1
+le	.	do	.	.	.	.	.	2
+le	.	me	.	.	.	.	.	2
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+so	.	fa	.	r	.	r	.	1
+r	.	r	.	.	.	me	.	2
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+le	.	do	.	me	.	le	.	1
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+so	.	te	.	me	.	fa	.	1
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+fa	.	te	.	re	.	te	.	1
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+re	.	te	.	fa	.	le	.	1
+me	.	.	.	me	.	so	.	2
+le	.	le	.	do	.	fa	.	2
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+te	.	so	.	te	.	me	.	1
+de	.	fa	.	le	.	re	.	2
+te	.	re	.	.	.	fa	.	2
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+me	.	me	.	so	.	me	.	1
+me	.	r	.	r	.	r	.	2
+me	.	so	.	te	.	te	.	2
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+! cresc.	!	! cresc.	!	! cresc.	!	! cresc.	!	!
+me	.	fi	.	la	.	la	.	1
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+me	.	so	.	re	.	re	.	1
+=59	=59	=59	=59	=59	=59	=59	=59	=59
+me	mf	le	mf	re	mf	re	mf	1
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+me	.	so	.	me	.	me	.	1
+r	.	r	.	r	.	r	.	2
+=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:	=:!!:
+*>D	*	*>D	*	*>D	*	*>D	*	*
+te	p	r	.	r	.	r	.	1
+r	.	r	.	r	.	r	.	2
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+la	.	r	.	r	.	r	.	1
+te	.	.	.	r	.	r	.	2
+ti	.	.	.	fa	p	le	p	2
+=62	=62	=62	=62	=62	=62	=62	=62	=62
+re	.	r	.	fa	.	so	.	1
+do	.	.	.	mi	.	.	.	2
+la	.	.	.	me	.	do	.	2
+=63	=63	=63	=63	=63	=63	=63	=63	=63
+do	.	r	.	me	.	fa	.	1
+te	.	.	.	re	.	.	.	2
+so	.	.	.	ra	.	te	.	2
+=64	=64	=64	=64	=64	=64	=64	=64	=64
+te	.	r	.	ra	.	me	.	1
+le	.	.	.	do	.	me	.	2
+fa	.	.	.	do	.	le	.	2
+=65	=65	=65	=65	=65	=65	=65	=65	=65
+le	.	r	.	do	.	re	.	1
+so	.	.	.	.	.	.	.	2
+fi	.	.	.	.	.	me	.	2
+=66	=66	=66	=66	=66	=66	=66	=66	=66
+! cresc.	!	!	!	!	!	!	!	!
+so	.	r	.	ti	.	re	.	1
+!	!	! cresc.	!	! cresc.	!	! cresc.	!	!
+=67	=67	=67	=67	=67	=67	=67	=67	=67
+so	.	do	.	me	.	la	.	1
+=68	=68	=68	=68	=68	=68	=68	=68	=68
+so	.	me	.	fi	.	do	.	1
+so	.	re	.	so	.	ti	.	2
+r	.	r	.	r	.	so	p	2
+=69	=69	=69	=69	=69	=69	=69	=69	=69
+r	.	r	.	do	p	do	.	1
+=70	=70	=70	=70	=70	=70	=70	=70	=70
+r	.	r	.	ti	.	le	.	1
+=71	=71	=71	=71	=71	=71	=71	=71	=71
+r	.	le	.	fa	.	re	.	1
+=72	=72	=72	=72	=72	=72	=72	=72	=72
+r	.	fa	.	le	.	ti	.	1
+r	.	me	.	so	.	do	.	2
+le	p	r	.	r	.	r	.	2
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+do	.	le	.	do	.	fi	.	1
+me	.	.	.	.	.	.	.	2
+fi	.	.	.	.	.	.	.	2
+=74	=74	=74	=74	=74	=74	=74	=74	=74
+so	.	so	.	ti	.	fa	.	1
+ti	.	.	.	.	.	.	.	2
+re	.	.	.	.	.	.	.	2
+=75	=75	=75	=75	=75	=75	=75	=75	=75
+do	.	do	.	do	.	me	.	1
+so	.	so	.	do	.	me	.	2
+so	.	fa	.	ti	.	re	.	2
+!	!	!	!	!	!	! 16cP/LL	!	!
+!	!	!	!	!	!	! 16dP/JJ)	!	!
+=76	=76	=76	=76	=76	=76	=76	=76	=76
+do	.	me	.	do	.	do	.	1
+=77	=77	=77	=77	=77	=77	=77	=77	=77
+do	.	r	.	fa	.	le	.	1
+=78	=78	=78	=78	=78	=78	=78	=78	=78
+do	.	fa	.	ra	.	te	.	1
+=79	=79	=79	=79	=79	=79	=79	=79	=79
+do	.	le	.	ti	.	so	.	1
+=80	=80	=80	=80	=80	=80	=80	=80	=80
+fa	.	fa	.	le	.	re	.	1
+r	.	r	.	r	.	mi	.	2
+r	.	r	.	r	.	fi	.	2
+=81	=81	=81	=81	=81	=81	=81	=81	=81
+r	.	r	.	r	.	le	.	1
+r	.	r	.	r	.	so	.	2
+so	.	fa	.	re	.	ti	.	2
+=82	=82	=82	=82	=82	=82	=82	=82	=82
+do	.	me	.	do	.	do	.	1
+r	.	r	.	r	.	r	.	2
+! Menuetto D.C.	!	! Menuetto D.C.	!	! Menuetto D.C.	!	! Menuetto D.C.	!	!
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Appoggiaturas of spine 'Violino I' need manual editing in measures: 76
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Quartetti ("Tost III")
+!!!AFT: stage2
+!!!END: 1994/11/13
+!!!KEY: 2270538497
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

@@ -1,0 +1,676 @@
+r so 3
+=1 =1 =1
+r do 1
+r me 3
+r so 2
+r do 3
+=2 =2 =2
+r me 1
+do me so me 3
+do me so re 4
+do me so do 5
+do me so ti 6
+do me so do 2
+do me so r 3
+=3 =3 =3
+ti re fa so re 1
+r so 3
+r ti 2
+r re 3
+=4 =4 =4
+r fa 1
+ti re fa so fa 3
+ti re fa so me 4
+ti re fa so re 5
+ti re fa so do 6
+ti re fa so re 2
+ti re fa so r 3
+=5 =5 =5
+=5 so =5
+r me 1
+do me so me 3
+do me so re 4
+do me so do 5
+do me so ti 6
+do me so do 2
+do me so r 3
+=6 =6 =6
+=6 so =6
+r fa 1
+re fa ti fa 3
+re fa ti me 4
+re fa ti re 5
+re fa ti do 6
+re fa ti re 2
+re fa ti r 3
+=7 =7 =7
+r so do me so 1
+me so do so do me so 3
+r fa 2
+r me 4
+fa le re re 3
+fa le re do 4
+=8 =8 =8
+=8 ti =8
+=8 do =8
+=8 re =8
+r do 1
+so re ti 3
+r r 2
+re r 3
+=9 =9 =9
+so r 1
+te r 3
+re r 2
+so r 3
+=10 =10 =10
+te r 1
+la r 4
+so r 5
+fi r 6
+so r 2
+so r 3
+=11 =11 =11
+so do r me 1
+so do r me 3
+so do te me 4
+so do le me 5
+so do so me 6
+so do le me 2
+so do le me 3
+=12 =12 =12 =12
+fa do le me 1
+fa do le fa 4
+fa do le me 5
+fa do le re 6
+fa do le me 2
+fa do le me 3
+=13 =13 =13 =13
+fa te le re 1
+fa te te re 4
+fa te le re 5
+fa te so re 6
+fa te le re 2
+fa te le re 3
+=14 =14 =14 =14
+me te r me 1
+me te r me 3
+me te le me 4
+me te so me 5
+me te fi me 6
+me te so me 2
+me te so me 3
+=15 =15 =15 =15
+le so do 1
+le fa do 3
+la fa do 2
+la me do 3
+=16 =16 =16
+te re 1
+r te 3
+r le 2
+so te so 3
+=17 =17 =17
+le do so 1
+le do fa 3
+la do fa 2
+la do me 3
+=18 =18 =18
+te re 1
+r te te 3
+r le le 2
+so te so so 3
+=19 =19 =19
+le do so so 1
+le do fa fa 3
+la do fa fa 2
+la do me me 3
+=20 =20 =20
+te re re 1
+te re re 4
+te r 3
+te r 4
+te r 2
+te r 4
+te de 3
+te de 4
+=21 =21 =21
+te te 1
+te te 4
+te le 3
+te le 4
+te fa 2
+te fa 4
+te re 3
+te re 4
+=22 =22 =22
+le te de 1
+le te de 3
+le te te 4
+so te me 2
+so te me 4
+r te de 3
+r te de 4
+=23 =23 =23
+te te 1
+te te 4
+te le 3
+te le 4
+te fa 2
+te fa 4
+te re 3
+te re 4
+=24 =24 =24
+le te de 1
+le te de 3
+le te te 4
+so te me 2
+so te me 4
+r te de 3
+r te de 4
+=25 =25 =25
+te te 1
+te te 4
+te le 3
+te le 4
+le fa 2
+te fa 4
+le re 3
+te re 4
+=26 =26 =26
+so r 1
+te re 4
+so fa 3
+te me 4
+re r 2
+te mi 4
+re so 3
+te fa 4
+=27 =27 =27
+me r 1
+te fi 4
+me le 3
+te so 4
+do r 2
+la la 4
+me me 3
+la la 4
+=28 =28 =28
+te te 1
+te te 4
+re r 3
+te r 4
+do r 2
+la la 4
+me me 3
+la la 4
+=29 =29 =29
+te te 1
+te te 4
+re r 3
+te r 4
+le r 2
+fa re 4
+de de 3
+fa re 4
+=30 =30 =30
+so me 1
+me me 4
+te r 3
+me r 4
+le r 2
+fa re 4
+de de 3
+fa re 4
+=31 =31 =31
+so r 1
+me re 4
+te fa 3
+me me 4
+re r 2
+re mi 4
+te so 3
+re fa 4
+=32 =32 =32
+me r 1
+me fi 4
+te le 3
+me so 4
+fa r 2
+fa so 4
+te te 3
+fa le 4
+=33 =33 =33
+so r 1
+so la 4
+te do 3
+te te 4
+te le 2
+te so 4
+me fa 3
+me me 4
+=34 =34 =34
+le re 1
+le do 4
+do te 3
+do le 4
+do so 2
+do fa 4
+fa me 3
+fa re 4
+=35 =35 =35
+te do 1
+te te 4
+me la 3
+me te 4
+me la 2
+me te 4
+so la 3
+so te 4
+=36 =36 =36
+le la 1
+le te 4
+fa do 3
+fa te 4
+re la 2
+re te 4
+le do 3
+le te 4
+=37 =37 =37
+so r 1
+so me 4
+te do 3
+te te 4
+te le 2
+te so 4
+me fa 3
+me me 4
+=38 =38 =38
+le re 1
+le do 4
+do te 3
+do le 4
+do so 2
+do fa 4
+fa me 3
+fa re 4
+=39 =39 =39
+te do 1
+te te 4
+me le 3
+me so 4
+me fa 2
+me me 4
+so re 3
+so do 4
+=40 =40 =40
+le te 1
+le do 4
+fa re 3
+fa me 4
+re fa 2
+re so 4
+te le 3
+te fa 4
+=41 =41 =41
+me me 1
+me r 3
+r se 2
+la do me se se 3
+la do me se fa 4
+=42 =42 =42
+r me 1
+te me so me 3
+r re 2
+te fa le re 3
+te fa le te 4
+=43 =43 =43
+r te 1
+me so me 3
+r se 2
+la do me se se 3
+la do me se fa 4
+=44 =44 =44
+r me 1
+te me so me 3
+r re 2
+te fa le re 3
+te fa le te 4
+=45 =45 =45
+r te 1
+me so me 3
+r se 2
+la do me se se 3
+la do me se fa 4
+=46 =46 =46
+r me 1
+te me so me 3
+r re 2
+te fa le re 3
+te fa le te 4
+=47 =47 =47
+me fa le te re le re te 1
+=48 =48 =48
+me so te me so te me 1
+r r 3
+r r 2
+r te 3
+=49 =49 =49
+r me 1
+r so 3
+r te 2
+r me 3
+=50 =50 =50
+r so 1
+me so te so 3
+me so te fa 4
+me so te me 5
+me so te re 6
+me so te me 2
+me so te r 3
+=51 =51 =51
+=51 le =51
+r le 1
+re fa le te le 3
+re fa le te so 4
+re fa le te fa 5
+re fa le te mi 6
+re fa le te fa 2
+re fa le te r 3
+=52 =52 =52
+r fa 1
+r le 3
+r re 2
+r fa 3
+=53 =53 =53
+=53 le =53
+r le 1
+re fa le ti le 3
+re fa le ti so 4
+re fa le ti fa 5
+re fa le ti mi 6
+re fa le ti fa 2
+re fa le ti r 3
+=54 =54 =54
+=54 le =54
+r le 1
+ra fa le ti le 3
+ra fa le ti so 4
+ra fa le ti fa 5
+ra fa le ti mi 6
+ra fa le ti fa 2
+ra fa le ti r 3
+=55 =55 =55
+do mi 1
+do mi 4
+do r 3
+do r 4
+do r 2
+do r 4
+do ra 3
+do ra 4
+=56 =56 =56
+do do 1
+do do 4
+do te 3
+do te 4
+do so 2
+do so 4
+do mi 3
+do mi 4
+=57 =57 =57
+te do ra 1
+te do ra 3
+te do do 4
+le do fa 2
+le do fa 4
+r do ra 3
+r do ra 4
+=58 =58 =58
+do do 1
+do do 4
+do te 3
+do te 4
+do so 2
+do so 4
+do mi 3
+do mi 4
+=59 =59 =59
+te do ra 1
+te do ra 3
+te do do 4
+le do fa 2
+le do fa 4
+r do ra 3
+r do ra 4
+=60 =60 =60
+do do 1
+do do 4
+do te 3
+do te 4
+te so 2
+do so 4
+te mi 3
+do mi 4
+=61 =61 =61
+le r 1
+do mi 4
+le so 3
+do fa 4
+so r 2
+do fa 4
+so le 3
+do so 4
+=62 =62 =62
+fa r 1
+do so 4
+fa te 3
+do le 4
+me r 2
+di fi 4
+me la 3
+di so 4
+=63 =63 =63
+re fi 1
+re fi 4
+re r 3
+re r 4
+re r 2
+re r 4
+re me 3
+re me 4
+=64 =64 =64
+re re 1
+re re 4
+re do 3
+re do 4
+re la 2
+re la 4
+re fi 3
+re fi 4
+=65 =65 =65
+do re me 1
+do re me 3
+do re re 4
+te re so 2
+te re so 4
+r re me 3
+r re me 4
+=66 =66 =66
+re re 1
+re re 4
+re do 3
+re do 4
+re la 2
+re la 4
+re fi 3
+re fi 4
+=67 =67 =67
+do re me 1
+do re me 3
+do re re 4
+te re so 2
+me r do 3
+me r la 4
+=68 =68 =68
+re do 1
+re la 4
+do do 3
+do la 4
+la do 2
+la la 4
+fi do 3
+fi la 4
+=69 =69 =69
+me r do 1
+me r la 4
+me fi do 3
+re fi la 4
+so so te 2
+so so so 4
+ra r te 3
+ra r so 4
+=70 =70 =70 =70
+do r te 1
+do r so 4
+te r te 3
+te r so 4
+so r te 2
+so r so 4
+mi r te 3
+mi r so 4
+=71 =71 =71 =71
+ra r te 1
+ra r so 4
+ra mi te 3
+do mi so 4
+fa fa le 2
+fa fa fa 4
+de r le 3
+de r fa 4
+=72 =72 =72 =72
+te r le 1
+te r fa 4
+le r le 3
+le r fa 4
+fa r le 2
+fa r fa 4
+re r le 3
+re r fa 4
+=73 =73 =73 =73
+de r le 1
+de r fa 4
+te r le 3
+te r fa 4
+te re le 2
+te re fa 4
+te re le 3
+te re fa 4
+=74 =74 =74 =74
+te r so 1
+te r me 4
+so r te 3
+so r me 4
+so me te 2
+so me me 4
+so me te 3
+so me me 4
+=75 =75 =75 =75
+so r le 1
+so r me 4
+le r le 3
+le r me 4
+le do le 2
+le do me 4
+le do le 3
+le do me 4
+=76 =76 =76 =76
+le r le 1
+le r re 4
+fa r le 3
+fa r re 4
+fa re le 2
+fa re re 4
+fa re le 3
+fa re re 4
+=77 =77 =77 =77
+fa r so 1
+fa r re 4
+so r so 3
+so r re 4
+so ti so 2
+so ti re 4
+so ti so 3
+so ti re 4
+=78 =78 =78 =78
+so r me 1
+so r do 4
+me r so 3
+me r do 4
+me do so 2
+me do do 4
+me do so 3
+me do do 4
+=79 =79 =79 =79
+r r le 1
+r r do 4
+fa r le 3
+fa r do 4
+fa do le 2
+fa do do 4
+fa do le 3
+fa do do 4
+=80 =80 =80
+r la 1
+r do 4
+fi me la do 3
+fi do 4
+fi me la do 2
+fi do 4
+fi me la do 3
+fi do 4
+=81 =81 =81
+so re so ti 1
+so re so ti 4
+ti r 3
+so r 4
+ti r 2
+so r 4
+ti so 3
+so so 4
+=82 =82 =82
+do me 1
+so me 4
+do r 3
+so r 4
+do r 2
+so r 4
+me do 3
+so do 4
+=83 =83 =83
+re ti 1
+so ti 4
+re r 3
+so r 4
+re r 2
+so r 4
+fa so 3
+so so 4
+=84 =84 =84
+me do 1
+so do 4
+so r 3
+so r 4
+fi do do 2
+so do do 4
+la do do 3
+so do do 4
+=85 =85 =85
+so ti ti 1
+so ti ti 4
+ti r 3
+so r 4
+ti r 2
+so r 4
+ti so 3
+so so 4

@@ -1,0 +1,255 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!OPR: Quartet in D Major
+!!!OTL:
+!!!OMV: 2
+!!!SCT: K 285
+!!!SCA: Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amade Mozarts (L. von Köchel; 1862, 2/1905, 3/1937, 1947)
+!!!YOR: Breitkopf & Härtel Edition
+!!!ENC: Frances Bennion
+!!!CDT: 1756/1/27/-1791/12/5/
+!!!OCY: Österreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*
+*b:	*b:	*b:	*b:	*
+*clefC	*clefF	*clefG	*clefG	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+do	me	r	so	1
+r	r	me	.	3
+do	me	r	do	2
+r	r	do	.	3
+do	so	r	me	2
+r	r	me	.	3
+=2	=2	=2	=2	=2
+ti	so	r	re	1
+r	r	re	.	3
+ti	re	r	so	2
+r	r	ti	.	3
+ti	so	r	.	2
+r	r	so	.	3
+=3	=3	=3	=3	=3
+so	re	r	fa	1
+r	r	re	.	3
+so	ti	r	re	2
+r	r	re	.	3
+so	ti	r	fa	2
+r	r	ti	.	3
+=4	=4	=4	=4	=4
+do	do	r	me	1
+r	r	do	.	3
+do	do	r	so	2
+r	r	do	.	3
+do	me	r	.	2
+r	r	so	.	3
+=5	=5	=5	=5	=5
+fa	r	r	le	1
+r	le	do	.	2
+fa	.	.	.	4
+so	.	.	so	3
+le	.	.	fa	4
+te	r	r	me	2
+=6	=6	=6	=6	=6
+me	r	r	so	1
+r	me	so	.	2
+me	.	.	.	4
+fa	.	.	fa	3
+so	.	.	me	4
+le	r	r	re	2
+=7	=7	=7	=7	=7
+re	r	r	fa	1
+r	ti	re	.	2
+le	.	.	.	4
+so	.	.	re	3
+ti	so	re	fa	4
+do	so	do	fa	2
+fi	la	do	do	3
+=8	=8	=8	=8	=8
+so	so	r	so	1
+r	r	me	.	3
+so	so	ti	re	2
+r	so	ti	.	3
+=9	=9	=9	=9	=9
+do	do	r	so	1
+r	r	so	.	3
+do	so	r	do	2
+r	r	do	.	3
+do	me	r	me	2
+r	r	do	.	3
+=10	=10	=10	=10	=10
+do	la	r	re	1
+r	r	la	.	3
+ti	re	r	so	2
+r	r	ti	.	3
+ti	so	r	.	2
+r	r	so	.	3
+=11	=11	=11	=11	=11
+te	te	r	so	1
+r	r	so	.	3
+te	se	r	te	2
+r	r	te	.	3
+te	ra	r	ra	2
+r	r	te	.	3
+=12	=12	=12	=12	=12
+te	so	r	do	1
+r	r	so	.	3
+la	do	r	fa	2
+r	r	la	.	3
+la	fa	r	.	2
+r	r	fa	.	3
+=13	=13	=13	=13	=13
+le	do	r	fa	1
+r	r	do	.	3
+le	do	le	fa	2
+r	r	do	le	3
+=14	=14	=14	=14	=14
+r	re	r	ti	1
+le	r	ti	fa	3
+so	ti	r	.	2
+fa	r	fa	ti	3
+me	do	so	do	2
+=15	=15	=15	=15	=15
+fa	do le	r	le	1
+r	r	me	so	3
+so	so	do	me	2
+r	r	so	.	3
+so	so	r	re	2
+r	r	so	.	3
+=16	=16	=16	=16	=16
+do	r	r	do	1
+r	do	me	r	2
+=17	=17	=17	=17	=17
+do	me do	r	le	1
+r	r	do	.	3
+te	fa re	le	le	2
+r	r	te	te	3
+te	re	fa	fa	2
+r	me	so	so	3
+=18	=18	=18	=18	=18
+me	r	r	le	1
+r	le	te	.	3
+me	me	me	so	2
+r	so	te	.	3
+=19	=19	=19	=19	=19
+le	do	r	te	1
+r	r	le	do	3
+le	fa	r	te	2
+r	r	fa	le	3
+la	fa	r	so	2
+r	r	re	fa	3
+=20	=20	=20	=20	=20
+te	r	r	re	1
+r	me	la	do	3
+le	fa	le	te	2
+r	do	me	.	3
+so	so	te	me	2
+r	fa	le	le	3
+=21	=21	=21	=21	=21
+le	r	r	so	1
+r	me	do	.	3
+le	r	r	fa	2
+r	me	do	.	3
+=22	=22	=22	=22	=22
+la	r	r	me	1
+r	se	do	.	3
+la	r	r	se	2
+r	me	do	.	3
+=23	=23	=23	=23	=23
+te	r	r	me	1
+r	te	me	so	3
+te	me	so	.	2
+r	fa	le	le	3
+te	fa	te	le	2
+r	me	so	so	3
+=24	=24	=24	=24	=24
+me	me	me	me	1
+r	r	r	.	2
+=25	=25	=25	=25	=25
+ti	re	r	so	1
+r	r	re	.	3
+do	me	r	do	2
+r	r	do	.	3
+fi	do	r	me	2
+r	r	do	.	3
+=26	=26	=26	=26	=26
+so	ti	r	re	1
+r	r	ti	.	3
+so	re	r	so	2
+r	r	so	.	3
+so	ti	r	.	2
+r	r	re	.	3
+=27	=27	=27	=27	=27
+le	do	r	fa	1
+r	r	fa	.	3
+la	do	r	fa	2
+r	r	do	.	3
+ti	so	r	fa	2
+r	r	ti	.	3
+=28	=28	=28	=28	=28
+do	so	r	me	1
+r	r	do	.	3
+do	do	r	so	2
+r	r	do	.	3
+do	me	r	.	2
+r	r	so	.	3
+=29	=29	=29	=29	=29
+fa	r	r	le	1
+r	le	do	.	2
+fa	.	.	.	4
+so	.	.	so	3
+le	.	.	fa	4
+te	r	r	me	2
+=30	=30	=30	=30	=30
+me	r	r	so	1
+r	me	so	.	2
+me	.	.	.	4
+fa	.	.	fa	3
+so	.	.	me	4
+le	r	r	re	2
+=31	=31	=31	=31	=31
+fa	do	r	le	1
+r	le	me	so	3
+so	so	r	me	2
+r	r	so	.	3
+so	te so	r	mi	2
+r	r	te	.	3
+=32	=32	=32	=32	=32
+le	le	do	fa	1
+r	r	r	le	2
+=33	=33	=33	=33	=33
+fa	do le	r	le	1
+r	r	me	so	3
+so	do so	r	me	2
+r	r	so	.	3
+so	te so	r	mi	2
+r	r	te	.	3
+=34	=34	=34	=34	=34
+le	le	do le	fa	1
+r	r	r	.	3
+fa	fa	do le	le	2
+r	r	r	.	3
+re	fa	do le	do	2
+r	r	r	r	3
+=35	=35	=35	=35	=35
+r	r	r	r	1
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 513051719
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

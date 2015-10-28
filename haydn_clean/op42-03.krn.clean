@@ -1,0 +1,223 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in D Minor
+!!!ONM: Opus 42
+!!!OTL: Grave 
+!!!OMV: 3
+!!!SCT: H III:43
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Trautwein Edition
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*B-:	*B-:	*
+*clefF4	*clefC3	*clefG	*clefG	*
+*M2/2	*M2/2	*M2/2	*M2/2	*M2/2
+*M2/2	*M2/2	*M2/2	*M2/2	*M2/2
+*M2/2	*M2/2	*M2/2	*M2/2	*M2/2
+*M2/2	*M2/2	*M2/2	*M2/2	*M2/2
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+do	so	do	mi	1
+=2	=2	=2	=2	=2
+do	mi	so	do	1
+la	do	do	fa	2
+mi	do	do	so	3
+=3	=3	=3	=3	=3
+fa	do	do	la	1
+mi	so	.	do	2
+=4	=4	=4	=4	=4
+re	la	do	fa	1
+so	re	ti	.	3
+do	so	do	mi	2
+=5	=5	=5	=5	=5
+so	so	ti	re	1
+do	.	do	mi	2
+=6	=6	=6	=6	=6
+so	so	ti	re	1
+mi	so	di	mi	3
+=7	=7	=7	=7	=7
+re	la	re	fa	1
+do	.	mi	.	4
+ti	re	fa	la	2
+=8	=8	=8	=8	=8
+do	so	do	mi	1
+mi	.	.	.	3
+so	.	ti	re	2
+=9	=9	=9	=9	=9
+do	so	do	mi	1
+=10	=10	=10	=10	=10
+do	mi	so	do	1
+la	do	do	fa	2
+mi	te	do	so	3
+=11	=11	=11	=11	=11
+fa	la	do	la	1
+so	so	.	mi	2
+so	fa	ti	re	3
+=12	=12	=12	=12	=12
+do	fa	ti	re	1
+r	r	r	r	3
+=13	=13	=13	=13	=13
+do	do	mi	so	1
+re	so	fa	.	2
+do	.	mi	.	3
+ti	.	re	.	4
+=14	=14	=14	=14	=14
+do	do	mi	so	1
+r	r	r	mi	2
+=15	=15	=15	=15	=15
+so	ti	re	so	1
+do	do	mi	.	2
+=16	=16	=16	=16	=16
+so	ti	re	so	1
+r	r	r	so	2
+=17	=17	=17	=17	=17
+la	mi	la	do	1
+fi	la	do	mi	2
+=18	=18	=18	=18	=18
+so	re	la	do	1
+r	r	li	di	2
+=19	=19	=19	=19	=19
+re	fi	do	re	1
+mi	so	ti	.	4
+fi	la	la	.	3
+so	ti	so	.	4
+la	do	fi	.	2
+re	la	do	fi	3
+=20	=20	=20	=20	=20
+so	fi	do	la	1
+r	r	r	r	3
+=21	=21	=21	=21	=21
+do	do	mi	so	1
+re	so	fa	.	2
+do	.	mi	.	3
+ti	.	re	.	4
+=22	=22	=22	=22	=22
+do	do	mi	so	1
+r	r	r	so	2
+=23	=23	=23	=23	=23
+so	ti	re	so	1
+do	do	mi	.	2
+=24	=24	=24	=24	=24
+so	ti	re	so	1
+r	r	r	so	2
+=25	=25	=25	=25	=25
+la	mi	la	do	1
+fi	.	.	mi	2
+=26	=26	=26	=26	=26
+so	re	la	do	1
+r	r	li	di	2
+=27	=27	=27	=27	=27
+re	fi	do	re	1
+mi	so	ti	.	4
+fi	la	la	.	3
+so	ti	so	.	4
+la	do	fi	.	2
+re	la	do	fi	3
+=28	=28	=28	=28	=28
+so	fi	do	la	1
+r	r	r	r	3
+=29	=29	=29	=29	=29
+so	ti	re	so	1
+do	do	mi	.	2
+=30	=30	=30	=30	=30
+so	ti	re	so	1
+r	ti	re	.	2
+=31	=31	=31	=31	=31
+mi	ti	re	si	1
+=32	=32	=32	=32	=32
+mi	si	ti	ti	1
+=33	=33	=33	=33	=33
+la	la	mi	do	1
+mi	si	re	ti	2
+=34	=34	=34	=34	=34
+fa	ti	re	si	1
+di	te	mi	so	3
+=35	=35	=35	=35	=35
+re	la	re	fa	1
+mi	mi	la	do	2
+=36	=36	=36	=36	=36
+la	la	la	la	1
+=37	=37	=37	=37	=37
+te	te	te	te	1
+do	mi	te	so	2
+=38	=38	=38	=38	=38
+fa	so	te	mi	1
+=39	=39	=39	=39	=39
+fa	r	do	la	1
+re	re	la	fa	3
+=40	=40	=40	=40	=40
+so	so	mi	do	1
+r	.	r	re	3
+=41	=41	=41	=41	=41
+do	so	do	mi	1
+=42	=42	=42	=42	=42
+do	mi	so	do	1
+la	do	do	fa	2
+mi	do	do	so	3
+=43	=43	=43	=43	=43
+fa	do	do	la	1
+mi	so	.	do	2
+=44	=44	=44	=44	=44
+re	la	do	fa	1
+so	re	ti	.	3
+do	so	do	mi	2
+=45	=45	=45	=45	=45
+so	so	ti	re	1
+do	.	do	mi	2
+=46	=46	=46	=46	=46
+so	so	ti	re	1
+mi	so	di	mi	3
+=47	=47	=47	=47	=47
+re	la	re	fa	1
+do	.	mi	.	4
+ti	re	fa	la	2
+=48	=48	=48	=48	=48
+do	so	do	mi	1
+mi	.	.	.	3
+so	.	ti	re	2
+=49	=49	=49	=49	=49
+do	so	do	mi	1
+=50	=50	=50	=50	=50
+do	mi	so	do	1
+la	do	do	fa	2
+mi	te	do	so	3
+=51	=51	=51	=51	=51
+fa	la	do	la	1
+so	so	.	mi	2
+so	fa	ti	re	3
+=52	=52	=52	=52	=52
+do	fa	ti	re	1
+=53	=53	=53	=53	=53
+do	fa	la	do	1
+=54	=54	=54	=54	=54
+do	mi	so	do	1
+=55	=55	=55	=55	=55
+do	re	fa	ti	1
+=56	=56	=56	=56	=56
+do	do	mi	do	1
+r	r	r	r	3
+do	do	mi	so	2
+r	r	r	r	3
+=57	=57	=57	=57	=57
+do	so	do	mi	1
+r	r	r	r	3
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 1148111100
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

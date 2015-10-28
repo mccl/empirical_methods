@@ -1,0 +1,256 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: Church Sonata in B- Major
+!!!ONM: Opus 1, No. 1
+!!!OTL:
+!!!OMV: 2
+!!!SCT: H III:1
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Bremner Edition, 1772
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*B-:	*B-:	*
+*clefF4	*clefC3	*clefF	*clefF	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+do	do	mi	do	1
+do	do	.	.	2
+do	do	la	do	2
+=2	=2	=2	=2	=2
+do	do	la	do	1
+do	do	so	ti	2
+do	do	fa	la	2
+=3	=3	=3	=3	=3
+do	do	mi	so	1
+do	do	mi	.	2
+do	do	mi	si	2
+=4	=4	=4	=4	=4
+do	do	fa	la	1
+do	do	fa	r	2
+do	do	fa	do	2
+=5	=5	=5	=5	=5
+do	do	so	mi	1
+do	do	so	r	2
+do	do	la	fa	2
+=6	=6	=6	=6	=6
+do	do	mi	do	1
+r	r	r	r	2
+=7	=7	=7	=7	=7
+so	so	mi	so	1
+so	so	.	.	2
+so	so	re	fa	2
+=8	=8	=8	=8	=8
+do	so	do	mi	1
+r	r	r	do	2
+=9	=9	=9	=9	=9
+so	so	mi	so	1
+so	so	.	.	2
+so	so	re	fa	2
+=10	=10	=10	=10	=10
+do	so	do	mi	1
+r	r	r	r	2
+=11	=11	=11	=11	=11
+so	so	ti	re	1
+so	so	ti	.	2
+so	so	ti	so	2
+=12	=12	=12	=12	=12
+la	la	do	so	1
+r	r	r	la	2
+=13	=13	=13	=13	=13
+fi	re	la	re	1
+fi	re	la	.	2
+fi	re	la	do	2
+=14	=14	=14	=14	=14
+so	re	so	do	1
+r	r	r	re	2
+=15	=15	=15	=15	=15
+r	r	so	re	1
+=16	=16	=16	=16	=16
+r	r	re	so	1
+=17	=17	=17	=17	=17
+r	r	do	mi	1
+=18	=18	=18	=18	=18
+r	r	so	so	1
+so	so	r	.	2
+fa	fa	.	r	2
+=19	=19	=19	=19	=19
+mi	mi	so	so	1
+r	r	so	so	2
+=20	=20	=20	=20	=20
+fa	fa	si	si	1
+fa	fa	so	so	2
+fa	fa	mi	mi	2
+=21	=21	=21	=21	=21
+re	re	fa	fa	1
+do	do	.	.	3
+ti	ti	fa	fa	2
+la	la	.	.	3
+so	so	fa	fa	2
+fa	fa	.	.	3
+=22	=22	=22	=22	=22
+mi	mi	fi	fi	1
+r	r	fa	fa	2
+=23	=23	=23	=23	=23
+r	r	ti	ti	1
+so	so	re	fa	2
+so	so	do	mi	2
+=24	=24	=24	=24	=24
+so	so	ti	re	1
+so	so	.	.	2
+fa	fa	.	.	3
+mi	mi	r	r	2
+re	re	.	.	3
+=25	=25	=25	=25	=25
+do	do	mi	do	1
+do	do	.	.	2
+do	do	la	do	2
+=26	=26	=26	=26	=26
+do	do	la	do	1
+do	do	so	ti	2
+do	do	fa	la	2
+=27	=27	=27	=27	=27
+do	do	mi	so	1
+do	do	mi	.	2
+do	do	mi	si	2
+=28	=28	=28	=28	=28
+do	do	fa	la	1
+do	do	fa	r	2
+do	do	fa	do	2
+=29	=29	=29	=29	=29
+do	do	so	mi	1
+do	do	so	r	2
+do	do	la	fa	2
+=30	=30	=30	=30	=30
+do	do	mi	do	1
+r	r	r	r	2
+=31	=31	=31	=31	=31
+so	so	mi	so	1
+so	so	.	.	2
+so	so	re	fa	2
+=32	=32	=32	=32	=32
+do	so	do	mi	1
+r	r	r	do	2
+=33	=33	=33	=33	=33
+so	so	mi	so	1
+so	so	.	.	2
+so	so	re	fa	2
+=34	=34	=34	=34	=34
+do	do	do	mi	1
+r	r	r	r	2
+=35	=35	=35	=35	=35
+fa	fa	r	r	1
+mi	so	.	.	2
+=36	=36	=36	=36	=36
+fa	la	r	r	1
+r	r	.	r	2
+=37	=37	=37	=37	=37
+r	r	fa	la	1
+=38	=38	=38	=38	=38
+mi	so	do	so	1
+fa	la	.	.	2
+=39	=39	=39	=39	=39
+so	te	r	r	1
+r	r	.	r	2
+=40	=40	=40	=40	=40
+r	r	mi	so	1
+=41	=41	=41	=41	=41
+fa	la	fa	la	1
+so	te	.	.	2
+=42	=42	=42	=42	=42
+la	do	r	r	1
+r	r	.	r	2
+=43	=43	=43	=43	=43
+r	r	te	re	1
+te	re	r	r	2
+=44	=44	=44	=44	=44
+la	do	r	r	1
+fa	la	.	r	2
+r	r	la	do	2
+=45	=45	=45	=45	=45
+r	r	so	te	1
+so	te	r	r	2
+=46	=46	=46	=46	=46
+fa	la	r	r	1
+la	fa	.	r	2
+r	do	do	do	2
+=47	=47	=47	=47	=47
+r	do	do	do	1
+mi	do	so	te	2
+fa	do	fa	la	2
+=48	=48	=48	=48	=48
+do	do	mi	so	1
+do	r	r	r	2
+r	.	.	.	2
+=49	=49	=49	=49	=49
+la	do	r	r	1
+so	re	.	.	2
+=50	=50	=50	=50	=50
+fi	me	r	r	1
+r	r	.	r	2
+=51	=51	=51	=51	=51
+r	r	la	do	1
+do	fi	r	r	2
+=52	=52	=52	=52	=52
+te	so	r	r	1
+so	te	.	r	2
+r	r	te	re	2
+=53	=53	=53	=53	=53
+r	r	so	te	1
+te	mi	r	r	2
+=54	=54	=54	=54	=54
+la	fa	r	r	1
+fa	la	.	r	2
+r	r	la	do	2
+=55	=55	=55	=55	=55
+r	r	te	re	1
+do	mi	r	r	2
+=56	=56	=56	=56	=56
+re	fa	r	r	1
+te	re	.	r	2
+r	r	mi	so	2
+=57	=57	=57	=57	=57
+r	r	fa	la	1
+so	te	r	r	2
+=58	=58	=58	=58	=58
+la	do	r	r	1
+fa	la	.	r	2
+r	r	la	do	2
+=59	=59	=59	=59	=59
+r	r	fa	la	1
+=60	=60	=60	=60	=60
+r	r	fa	la	1
+la	do	.	.	2
+=61	=61	=61	=61	=61
+te	re	r	r	1
+so	te	.	.	2
+do	fa	.	.	2
+=62	=62	=62	=62	=62
+fa	fa	r	r	1
+fa	r	.	.	2
+r	.	.	.	2
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 10 Divertimentos
+!!!OPT: La chasse
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 1781546545
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

@@ -1,0 +1,27 @@
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!OTL: String Quartet No. 2 in G Major, Op. 18, No. 2
+!!!OPS: Op. 18
+!!!ONM: No. 2
+!!!OMV: Mvmt. 2
+!!!OMD: Adagio cantabile
+**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**metpos
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*
+*Icello	*Icello	*Iviola	*Iviola	*Ivioln	*Ivioln	*Ivioln	*Ivioln	*
+*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*>[A,B,B,C,C,D]	*
+*>norep[A,B,C,D]	*>norep[A,B,C,D]	*>norep[A,B,C,D]	*>norep[A,B,C,D]	*>norep[A,B,C,D]	*>norep[A,B,C,D]	*>norep[A,B,C,D]	*>norep[A,B,C,D]	*
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*
+*clefF4	*clefF4	*clefC3	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
