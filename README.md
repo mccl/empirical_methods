@@ -1,18 +1,17 @@
-# smt_meeting
-For the empirical methods workshop, SMT2015
+SMT 2015 in St. Louis
+===================
 
-## Operationalization
+Here you can find the data and code for the empirical methods workshop at SMT 2015 (held on Friday night, 7:30-10:30).
 
-Easy operationalization of a basic medial caesura. (Hammer blows, etc.)
+Code
+=============
 
-### Schutzy and Comparative Stats
+Scripts here can be downloaded and used in the terminal or in `R` (it is recommended that you download `RStudio` if you'd like to play with the R scripts). Shell scripts (those ending in `.sh`) can be run in the terminal by typing the following in the Terminal application:
 
-Chi-square? T-tests? What makes data normal?
+`./script_name.sh`
 
-i##Slightly tougher MC definitions.
+Data
+=================
 
-### More on stats?
-
-
-
+Data are available here as kern files. This format can be read in Humdrum (which we will be using in the workshop), but also in music21 with the kern translator (see music21's documentation about this).
 
