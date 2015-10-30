@@ -3,10 +3,16 @@ SMT 2015 in St. Louis
 
 Here you can find the data and code for the empirical methods workshop at SMT  2015 (held on Friday night, 7:30-10:30).
 
+Humdrum
+===========
+
+We will be using Humdrum for our interactive workshop. It can be downloaded [here](http://www.humdrum.org/install/github/).
+
+
 Code
 =============
 
-Scripts here can be downloaded and used in the terminal or in `R` (it is       recommended that you download `RStudio` if you'd like to play with the R       scripts). Shell scripts (those ending in `.sh`) can be run in the terminal by  typing the following in the Terminal application:
+Scripts here can be downloaded and used in the terminal or in `R` (it is recommended that you download `RStudio` if you'd like to play with the R scripts). Shell scripts (those ending in `.sh`) can be run in the terminal by  typing the following in the Terminal application:
 
 `./script_name.sh`
 
