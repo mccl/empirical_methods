@@ -1,0 +1,220 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in D Major
+!!!ONM: Opus 33, No. 6
+!!!OTL: Affettuoso 
+!!!OMV: 3
+!!!SCT: H III:42
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Richault Edition, volume 8
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*D:	*D:	*
+*clefF4	*clefC3	*clefF	*clefF	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+r	r	r	r	1
+r	r	so	so	2
+=1	=1	=1	=1	=1
+r	r	ti	fa	1
+r	.	do	mi	2
+do	.	do	mi	2
+=2	=2	=2	=2	=2
+ti	r	do	mi	1
+la	.	.	.	2
+la	.	do	la	2
+=3	=3	=3	=3	=3
+re	r	ti	so	1
+=4	=4	=4	=4	=4
+so	do	so	so	1
+r	la	r	fa	2
+=5	=5	=5	=5	=5
+r	so	r	mi	1
+r	fa	r	re	2
+fa	r	la	la	2
+=6	=6	=6	=6	=6
+mi	r	di	so	1
+re	r	re	fa	2
+re	la	fa	re	2
+=7	=7	=7	=7	=7
+so	so	mi	do	1
+so	re	re	ti	2
+=8	=8	=8	=8	=8
+do	do	mi	do	1
+r	r	r	r	2
+=9	=9	=9	=9	=9
+r	fa	la	r	1
+r	mi	so	r	2
+di	la	mi	la	2
+=10	=10	=10	=10	=10
+re	la	mi	so	1
+r	fa	la	r	2
+=11	=11	=11	=11	=11
+r	mi	so	r	1
+r	re	fa	r	2
+ti	so	re	so	2
+=12	=12	=12	=12	=12
+do	so	re	fa	1
+mi	so	do	do	2
+=13	=13	=13	=13	=13
+fa	fa	do	ti	1
+so	so	.	so	2
+=14	=14	=14	=14	=14
+la	la	do	so	1
+ti	ti	re	fa	2
+do	do	do	mi	2
+=15	=15	=15	=15	=15
+so	so	so	so	1
+=16	=16	=16	=16	=16
+so	re	fa	r	1
+=17	=17	=17	=17	=17
+so	di	mi	so	1
+=18	=18	=18	=18	=18
+so	do	mi	fa	1
+=19	=19	=19	=19	=19
+so	ti	re	fa	1
+r	do	mi	mi	2
+do	mi	do	mi	2
+=20	=20	=20	=20	=20
+ti	re	do	mi	1
+la	do	.	.	2
+la	r	do	la	2
+=21	=21	=21	=21	=21
+re	r	ti	so	1
+=22	=22	=22	=22	=22
+so	do	so	so	1
+=23	=23	=23	=23	=23
+r	so	r	mi	1
+r	fa	r	re	2
+fa	r	la	la	2
+=24	=24	=24	=24	=24
+mi	r	di	so	1
+re	r	re	fa	2
+re	la	fa	re	2
+=25	=25	=25	=25	=25
+so	so	mi	do	1
+so	so	re	ti	2
+=26	=26	=26	=26	=26
+do	fa	do	do	1
+r	mi	r	r	2
+ti	r	.	.	2
+do	.	.	.	3
+=27	=27	=27	=27	=27
+do	r	r	r	1
+do	.	do	mi	2
+ti	.	.	.	3
+la	.	do	mi	2
+so	.	.	.	3
+=28	=28	=28	=28	=28
+fa	r	re	fa	1
+fa	.	re	fa	2
+mi	.	r	r	2
+fa	.	.	.	3
+=29	=29	=29	=29	=29
+so	r	r	r	1
+so	.	ti	re	2
+fa	.	.	.	3
+mi	.	ti	re	2
+re	.	.	.	3
+=30	=30	=30	=30	=30
+do	r	do	mi	1
+do	.	do	mi	2
+ti	.	r	r	2
+do	.	.	.	3
+=31	=31	=31	=31	=31
+do	r	r	r	1
+do	.	mi	do	2
+ti	.	.	.	3
+la	.	mi	do	2
+so	.	.	.	3
+=32	=32	=32	=32	=32
+fi	la	re	do	1
+la	.	.	.	3
+re	.	.	.	2
+fi	.	.	.	3
+so	so	.	ti	2
+=33	=33	=33	=33	=33
+do	mi	do	la	1
+re	re	ti	so	2
+re	re	la	fi	2
+=34	=34	=34	=34	=34
+so	so	so	so	1
+r	r	r	fi	2
+=35	=35	=35	=35	=35
+r	r	r	so	1
+=36	=36	=36	=36	=36
+r	re	r	fa	1
+=37	=37	=37	=37	=37
+r	ti	r	so	1
+=38	=38	=38	=38	=38
+r	do	r	mi	1
+=39	=39	=39	=39	=39
+r	fa	do	la	1
+=40	=40	=40	=40	=40
+r	la	do	fa	1
+=41	=41	=41	=41	=41
+r	fa	do	la	1
+=42	=42	=42	=42	=42
+r	so	so	so	1
+=43	=43	=43	=43	=43
+r	r	r	do	1
+do	do	mi	do	2
+do	do	mi	la	2
+=44	=44	=44	=44	=44
+re	re	fa	fa	1
+re	re	fa	fa	2
+r	r	r	mi	2
+=45	=45	=45	=45	=45
+r	r	r	so	1
+ti	ti	re	so	2
+ti	ti	re	mi	2
+=46	=46	=46	=46	=46
+do	do	mi	do	1
+do	do	mi	do	2
+ti	ti	ti	ti	2
+do	do	do	do	3
+=47	=47	=47	=47	=47
+do	do	do	do	1
+ti	ti	ti	ti	2
+do	do	do	do	3
+re	re	re	re	2
+mi	mi	mi	mi	3
+=48	=48	=48	=48	=48
+fa	fa	fa	fa	1
+so	so	so	so	3
+la	la	la	la	2
+ti	ti	ti	ti	3
+do	do	do	do	2
+re	re	re	re	3
+=49	=49	=49	=49	=49
+mi	mi	mi	mi	1
+so	so	so	so	2
+so	fa	re	ti	2
+=50	=50	=50	=50	=50
+do	mi	mi	do	1
+r	r	r	r	2
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Quators ("Jungfernquartette")
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 1167176672
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

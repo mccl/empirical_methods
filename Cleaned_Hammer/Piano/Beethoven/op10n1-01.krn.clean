@@ -1,0 +1,52 @@
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!OTL: Piano Sonata no. 5 in C Minor
+!!!ODT: 1795///-1797///
+!!!ODE: &agrave; la Comtesse de Browne
+!!!OMD: Allegro molto e con brio
+!!!OPS: Op. 10
+!!!ONM: No. 1
+!!!OMV: Mvmt. 1
+!!!AGN: Sonata
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*Ipiano	*Ipiano	*
+*>[A,A,B]	*>[A,A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-
+4.C\ 4.E-\ 4.G\ 4.c\	4.e-/ 4.g/ 4.cc/	1
+8r	16r	3
+4r	8.ee-\	2
+=2	=2	=2
+2.r	8.gg\L	1
+=3	=3	=3
+4r	4eee-'\	1
+4r	4r	2
+*clefG2	*	*
+4c'/ 4e-'/	4g'\ 4cc'\	2
+=4	=4	=4
+(2c/ 2e-/	[2g\ (2cc\	1
+4d/) 4f/	4g\] 4bn\)	2
+*clefF4	*	*
+=5	=5	=5
+4.D\ 4.F\ 4.A-\ 4.Bn\ 4.d\	4.f/ 4.a-/ 4.bn/	1
+8r	16r	3
+4r	8.ff\	2
+=6	=6	=6
+2.r	8.bbn\L	1
+=7	=7	=7
+4r	4fff'\	1
+4r	4r	2
+*clefG2	*	*
+4d'/ 4f'/ 4a-'/	4bn'\ 4dd'\	2
+=8	=8	=8
+(2d/ 2f/ 2a-/	2bn\ (2dd\	1
+4e-/) 4g/	4cc\)	2
+=9	=9	=9

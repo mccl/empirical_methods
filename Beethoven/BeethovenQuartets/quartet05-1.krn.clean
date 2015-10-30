@@ -1,0 +1,34 @@
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!ODT: 1798///-1800///
+!!!OTL: String Quartet No. 5 in A Major, Op. 18, No. 5
+!!!OPS: Op. 18
+!!!ONM: No. 5
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro
+!!!PDT: 1801///
+!!!PPP: Vienna
+!!!PPR: C. Haslinger qm Tobias
+!!!ODE: Dem F&uuml;rsten von Lobkowitz gewidmet
+!!!MPD: 1798///-1800///
+**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**solfa	**dynam	**metpos
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*
+*Icello	*Icello	*Iviola	*Iviola	*Ivioln	*Ivioln	*Ivioln	*Ivioln	*
+*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*
+*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*
+*clefF4	*clefF4	*clefC3	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*M6/8
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+*tb32	*	*tb32	*	*tb32	*	*tb32	*	*tb32
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-

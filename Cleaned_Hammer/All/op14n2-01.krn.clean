@@ -1,0 +1,88 @@
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!OTL: Piano Sonata no. 10 in G major
+!!!OMV: mvmt. 1
+!!!OMD: Allegro
+!!!OPS: Op. 14
+!!!ONM: No. 2
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B]	*>[A,A,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*M2/4
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+4r	16r	2
+=1	=1	=1
+*^	*	*
+8r	8r	16b/LL	1
+16GG/LL	16GG\	8.g/J)	3
+[16BB/JJ	&(16BB\&)	.	4
+4BB/] 4D/	4GG\	.	2
+=2	=2	=2	=2
+8r	8r	16b/LL	1
+16G/LL	16G\	8.g/J)	3
+16B/JJ	[16B\	.	4
+4B/] 4d/	4G\	.	2
+=3	=3	=3	=3
+8r	8r	16cc/LL	1
+16GG/LL	16GG\	8.a/J)	3
+[16C/JJ	16C\	.	4
+4C/] 4E/	4GG\	.	2
+=4	=4	=4	=4
+8r	8r	16cc/LL	1
+16G/LL	16G\	8.a/J)	3
+16c/JJ	16c\	.	4
+4c/ 4e/	4G\	.	2
+*v	*v	*	*
+=5	=5	=5
+16r	(8.aa\L	1
+(16F#\LL	.	4
+16A\	.	3
+16d\JJ)	16gg\Jk	4
+16r	16ff#\LL	2
+(16D\LL	16ee\	4
+16A\	16dd\	3
+16c\JJ)	16cc\JJ)	4
+=6	=6	=6
+16r	(16cc\LK)	1
+(16G\LL	8b\	4
+16B\	.	3
+16d\JJ)	16gg\Jk)	4
+16r	(16gg\LK	2
+(16C\LL	8a\	4
+16E\	.	3
+16A\JJ)	16ee\Jk)	4
+=7	=7	=7
+16r	(16ee\LK	1
+(16D\LL	8g\	4
+16G\	.	3
+16B\JJ)	(16dd\Jk)	4
+16r	16dd/LK	2
+(16DD/LL	8c/	4
+16AA/	.	3
+16D/JJ)	16f#/Jk)	4
+=8	=8	=8
+(16GG/LL	4B/ 4g/	1
+16BB/	.	4
+16D/	.	3
+16BB/JJ)	.	4
+(16GG/LL	8r	2
+16BB/	.	4
+16D/	8dd\	3
+16BB/JJ)	.	4
+=9	=9	=9
+(16GG/LL	8dd'\L	1
+16BB/	.	4
+16D/	8dd'\	3
+16BB/JJ)	.	4
+(16GG/LL	8dd'\	2
+16BB/	.	4
+16D/	8dd\J	3
+16BB/JJ)	.	4
+=10	=10	=10

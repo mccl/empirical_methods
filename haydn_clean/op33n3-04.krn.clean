@@ -1,0 +1,742 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in C Major
+!!!ONM: Opus 33, No. 3
+!!!OTL: Affettuoso 
+!!!OMV: 4
+!!!SCT: H III:39
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Richault Edition, volume 7
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**solfa	**metpos
+*k[]	*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*C:	*
+*clefF4	*clefC3	*clefF	*clefF	*clefF	*
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*tb32	*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32	*tb32
+do	so mi	r	mi do	so	1
+r	r	.	r	mi	3
+do	mi so	.	mi do	so	2
+r	r	.	r	mi	3
+=2	=2	=2	=2	=2	=2
+do	so mi	r	mi do	so	1
+r	r	.	r	so	2
+=3	=3	=3	=3	=3	=3
+do	so mi	r	mi do	so	1
+do	mi so	.	do mi	mi	3
+do	so mi	.	mi do	so	2
+do	so mi	.	do mi	mi	3
+=4	=4	=4	=4	=4	=4
+do	mi so	r	mi do	so	1
+r	r	.	r	so	2
+=5	=5	=5	=5	=5	=5
+la	mi	r	di	la	1
+la	mi	.	di	la	3
+la	mi	.	di	so	2
+la	mi	.	di	fa	3
+=6	=6	=6	=6	=6	=6
+re	re	r	re	fa	1
+re	re	.	re	fa	3
+so	re	.	ti	so	2
+so	re	.	ti	fa	3
+=7	=7	=7	=7	=7	=7
+do	do	r	do	mi	1
+do	do	.	do	mi	3
+fa	fa	.	la	fa	2
+fa	fa	.	so	mi	3
+=8	=8	=8	=8	=8	=8
+so	so	r	mi	do	1
+so	r	.	re	ti	2
+r	.	.	r	r	3
+=9	=9	=9	=9	=9	=9
+r	ti	r	re	so	1
+=10	=10	=10	=10	=10	=10
+r	ti	r	re	so	1
+=11	=11	=11	=11	=11	=11
+r	do	r	mi	so	1
+=12	=12	=12	=12	=12	=12
+r	do	r	mi	so	1
+=13	=13	=13	=13	=13	=13
+r	re	r	fa	so	1
+=14	=14	=14	=14	=14	=14
+r	ti	r	re	so	1
+=15	=15	=15	=15	=15	=15
+te	do	r	mi	do	1
+so	r	.	r	r	3
+te	so	.	mi do	do	2
+so	r	.	r	r	3
+=16	=16	=16	=16	=16	=16
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	.	.	.	.	3
+la	.	.	.	.	4
+te	r	.	r	r	2
+so	.	.	.	.	3
+=17	=17	=17	=17	=17	=17
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	so	.	do mi	do	3
+la	.	.	.	.	4
+te	so	.	mi do	do	2
+la	.	.	.	.	4
+so	so	.	mi do	do	3
+la	.	.	.	.	4
+=18	=18	=18	=18	=18	=18
+te	so	r	do mi	do	1
+la	.	.	.	.	4
+so	.	.	.	.	3
+la	.	.	.	.	4
+te	r	.	r	r	2
+so	.	.	.	.	3
+=19	=19	=19	=19	=19	=19
+fa	do	r	do	la	1
+fa	.	.	.	do	3
+mi	.	.	.	so	2
+mi	.	.	.	so	3
+=20	=20	=20	=20	=20	=20
+re	fa	r	do	fa	1
+re	fa	.	ti	la	3
+do	so	.	do	mi	2
+do	so	.	do	mi	3
+=21	=21	=21	=21	=21	=21
+fa	la	r	la	re	1
+fa	la	.	la	fa	3
+so	fa	.	re	ti	2
+so	fa	.	fa	re	3
+=22	=22	=22	=22	=22	=22
+do	mi	r	mi	do	1
+r	r	.	r	r	2
+=23	=23	=23	=23	=23	=23
+la	do	la	mi	la	1
+r	r	.	.	.	2
+=24	=24	=24	=24	=24	=24
+r	r	do	mi	la	1
+=25	=25	=25	=25	=25	=25
+la	mi do	la	mi	do	1
+r	r	do	.	la	2
+=26	=26	=26	=26	=26	=26
+la	mi do	la	mi	do	1
+r	r	do	.	la	2
+=27	=27	=27	=27	=27	=27
+mi	mi so	mi	ti	mi	1
+r	r	.	.	.	2
+=28	=28	=28	=28	=28	=28
+r	r	so	ti	mi	1
+=29	=29	=29	=29	=29	=29
+mi	so mi	mi	ti	so	1
+r	r	so	.	mi	2
+=30	=30	=30	=30	=30	=30
+mi	so mi	mi	ti	so	1
+r	r	so	.	mi	2
+=31	=31	=31	=31	=31	=31
+la	fa	r	do	fa	1
+la	.	.	.	.	3
+la	.	.	.	.	2
+la	so	.	.	mi	3
+=32	=32	=32	=32	=32	=32
+la	fa	r	do	fa	1
+la	fa	.	.	fa	3
+la	la	.	.	la	2
+la	la	.	la	do	3
+=33	=33	=33	=33	=33	=33
+ti	ti	r	so	mi	1
+ti	ti	.	.	.	3
+ti	ti	.	.	.	2
+ti	ti	.	.	.	3
+=34	=34	=34	=34	=34	=34
+ti	ti	r	fi	mi	1
+ti	ti	.	fi	ri	3
+ti	ti	.	la	fi	2
+ti	ti	.	fi	ri	3
+=35	=35	=35	=35	=35	=35
+mi	mi	r	mi	mi	1
+r	r	.	mi	mi	2
+=36	=36	=36	=36	=36	=36
+r	r	r	mi	mi	1
+=37	=37	=37	=37	=37	=37
+r	r	r	mi	mi	1
+=38	=38	=38	=38	=38	=38
+mi	so	r	do	do	1
+do	mi	.	.	.	3
+mi	so	.	.	r	2
+do	mi	.	.	.	3
+=39	=39	=39	=39	=39	=39
+mi	so	r	do	r	1
+re	fa	.	.	.	4
+do	mi	.	do	.	3
+re	fa	.	.	.	4
+mi	so	.	do	.	2
+do	mi	.	do	.	3
+=40	=40	=40	=40	=40	=40
+re	fa	r	do	la	1
+=41	=41	=41	=41	=41	=41
+re	fa	r	do	la	1
+re	fa	.	do	fa	3
+re	fa	.	do	la	2
+re	fa	.	do	fa	3
+=42	=42	=42	=42	=42	=42
+re	fa so	r	ti	re	1
+fa	.	.	so	.	3
+re	.	.	ti	.	2
+fa	.	.	so	.	3
+=43	=43	=43	=43	=43	=43
+re	fa so	r	ti	re	1
+mi	.	.	la	.	4
+fa	.	.	so	re	3
+mi	.	.	la	.	4
+re	.	.	ti	re	2
+fa	.	.	so	re	3
+=44	=44	=44	=44	=44	=44
+mi	mi	r	so	re	1
+r	mi	.	so	.	2
+=45	=45	=45	=45	=45	=45
+r	mi	r	so	re	1
+=46	=46	=46	=46	=46	=46
+la	fi	r	fi	do	1
+do	la	.	.	la	3
+la	fi	.	.	do	2
+do	la	.	.	la	3
+=47	=47	=47	=47	=47	=47
+la	fi	r	fi	do	1
+ti	so	.	.	ti	4
+do	la	.	fi	la	3
+ti	so	.	.	ti	4
+la	fi	.	fi	do	2
+do	la	.	fi	la	3
+=48	=48	=48	=48	=48	=48
+so	ti	r	so	ti	1
+ti	re	.	.	so	3
+so	ti	.	.	ti	2
+ti	re	.	.	so	3
+=49	=49	=49	=49	=49	=49
+so	ti	r	so	ti	1
+la	do	.	.	la	4
+ti	re	.	so	so	3
+la	do	.	.	la	4
+so	ti	.	so	ti	2
+ti	re	.	so	so	3
+=50	=50	=50	=50	=50	=50
+mi	so	r	so	di	1
+so	.	.	mi	.	3
+mi	.	.	so	.	2
+so	.	.	mi	.	3
+=51	=51	=51	=51	=51	=51
+mi	so	r	so	di	1
+fi	.	.	fi	.	4
+so	so	.	mi	di	3
+fi	.	.	fi	.	4
+mi	so	.	so	di	2
+so	so	.	mi	di	3
+=52	=52	=52	=52	=52	=52
+re	la	r	fi	re	1
+r	la	.	r	do	2
+=53	=53	=53	=53	=53	=53
+r	so	r	so	ti	1
+do	r	.	r	la	2
+ti	.	.	.	so	4
+la	.	.	.	fi	3
+do	.	.	.	la	4
+=54	=54	=54	=54	=54	=54
+ti	r	r	r	so	1
+so	.	.	.	ti	3
+r	.	.	fi	la	2
+=55	=55	=55	=55	=55	=55
+r	ti	r	so	ti	1
+la	r	.	r	fi	2
+ti	.	.	.	so	4
+do	.	.	re	la	3
+la	.	.	.	fi	4
+=56	=56	=56	=56	=56	=56
+so	r	r	ti	so	1
+r	.	.	la	fi	2
+=57	=57	=57	=57	=57	=57
+r	r	r	so	mi	1
+=58	=58	=58	=58	=58	=58
+r	mi	r	mi	do	1
+=59	=59	=59	=59	=59	=59
+r	do	r	r	la	1
+=60	=60	=60	=60	=60	=60
+la	la	r	do	fi	1
+ti	.	.	.	.	4
+do	r	.	r	r	3
+la	.	.	.	.	4
+so	so	.	ti	so	2
+la	.	.	.	.	4
+ti	r	.	r	r	3
+so	.	.	.	.	4
+=61	=61	=61	=61	=61	=61
+fi	fi	r	re	la	1
+so	.	.	.	.	4
+la	r	.	r	r	3
+fi	.	.	.	.	4
+mi	mi	.	so	ti	2
+fi	.	.	.	.	4
+so	r	.	r	r	3
+mi	.	.	.	.	4
+=62	=62	=62	=62	=62	=62
+re	re	r	la	do	1
+mi	.	.	.	.	4
+fi	re	.	la	do	3
+re	.	.	.	.	4
+so	re	.	so	ti	2
+so	re	.	so	ti	3
+=63	=63	=63	=63	=63	=63
+do	do	r	mi	la	1
+do	do	.	mi	do	3
+re	la	.	do	fi	2
+re	la	.	do	la	3
+=64	=64	=64	=64	=64	=64
+ti	re	r	ti	so	1
+so	ti	.	.	.	3
+ti	re	.	r	r	2
+so	ti	.	.	.	3
+=65	=65	=65	=65	=65	=65
+r	r	r	ti	re	1
+=66	=66	=66	=66	=66	=66
+re	ti	r	r	r	1
+ti	so	.	.	.	3
+re	ti	.	.	.	2
+ti	so	.	.	.	3
+=67	=67	=67	=67	=67	=67
+r	r	r	ti	re	1
+=68	=68	=68	=68	=68	=68
+re	fa	r	r	r	1
+ti	re	.	.	.	3
+re	fa	.	.	.	2
+ti	re	.	.	.	3
+=69	=69	=69	=69	=69	=69
+r	r	r	fa	so	1
+=70	=70	=70	=70	=70	=70
+re	fa	r	r	r	1
+ti	re	.	.	.	3
+r	r	.	fa	so	2
+=71	=71	=71	=71	=71	=71
+re	fa	r	r	r	1
+ti	re	.	.	.	3
+r	r	.	fa	so	2
+=72	=72	=72	=72	=72	=72
+r	r	r	r	r	1
+=73	=73	=73	=73	=73	=73
+do	so mi	r	do mi	so	1
+r	r	.	r	mi	3
+do	mi so	.	mi do	so	2
+r	r	.	r	mi	3
+=74	=74	=74	=74	=74	=74
+do	so mi	r	mi do	so	1
+r	r	.	r	so	2
+=75	=75	=75	=75	=75	=75
+do	so mi	r	do mi	so	1
+do	so mi	.	mi do	mi	3
+do	mi so	.	do mi	so	2
+do	so mi	.	do mi	mi	3
+=76	=76	=76	=76	=76	=76
+do	so mi	r	do mi	so	1
+r	r	.	r	so	2
+=77	=77	=77	=77	=77	=77
+la	mi	r	di	la	1
+la	mi	.	di	la	3
+la	mi	.	di	so	2
+la	mi	.	di	fa	3
+=78	=78	=78	=78	=78	=78
+re	la	r	re	fa	1
+re	la	.	re	fa	3
+so	re	.	ti	so	2
+so	re	.	ti	fa	3
+=79	=79	=79	=79	=79	=79
+do	so	r	do	mi	1
+do	so	.	do	mi	3
+fa	la	.	la	fa	2
+fa	la	.	so	mi	3
+=80	=80	=80	=80	=80	=80
+so	so	r	mi	do	1
+so	so	.	re	ti	2
+r	r	.	r	r	3
+=81	=81	=81	=81	=81	=81
+r	ti	r	re	so	1
+=82	=82	=82	=82	=82	=82
+r	ti	r	re	so	1
+=83	=83	=83	=83	=83	=83
+r	do	r	mi	so	1
+=84	=84	=84	=84	=84	=84
+r	do	r	mi	so	1
+=85	=85	=85	=85	=85	=85
+r	re	r	fa	so	1
+=86	=86	=86	=86	=86	=86
+r	ti	r	re	so	1
+=87	=87	=87	=87	=87	=87
+te	do	r	mi	do	1
+so	r	.	r	r	3
+te	so	.	mi do	do	2
+so	r	.	r	r	3
+=88	=88	=88	=88	=88	=88
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	.	.	.	.	3
+la	.	.	.	.	4
+te	r	.	r	r	2
+so	.	.	.	.	3
+=89	=89	=89	=89	=89	=89
+te	so	r	do mi	do	1
+la	.	.	.	.	4
+so	so	.	mi do	do	3
+la	.	.	.	.	4
+te	so	.	mi do	do	2
+la	.	.	.	.	4
+so	so	.	mi do	do	3
+la	.	.	.	.	4
+=90	=90	=90	=90	=90	=90
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	.	.	.	.	3
+la	.	.	.	.	4
+te	r	.	r	r	2
+so	.	.	.	.	3
+=91	=91	=91	=91	=91	=91
+fa	do	r	do	la	1
+fa	.	.	.	do	3
+mi	.	.	.	so	2
+mi	.	.	.	so	3
+=92	=92	=92	=92	=92	=92
+re	fa	r	do	fa	1
+re	fa	.	ti	la	3
+do	so	.	do	mi	2
+do	so	.	do	mi	3
+=93	=93	=93	=93	=93	=93
+fa	la	r	la	re	1
+fa	la	.	la	fa	3
+so	fa	.	re	ti	2
+so	fa	.	fa	re	3
+=94	=94	=94	=94	=94	=94
+do	so	r	me	do	1
+r	.	.	.	.	2
+=95	=95	=95	=95	=95	=95
+r	so	r	me	do	1
+=96	=96	=96	=96	=96	=96
+do	so	r	do	me	1
+r	.	.	me	do	2
+=97	=97	=97	=97	=97	=97
+do	so	r	do	me	1
+r	.	.	me	do	2
+=98	=98	=98	=98	=98	=98
+so	re	r	te	so	1
+r	.	.	.	.	2
+=99	=99	=99	=99	=99	=99
+r	re	r	te	so	1
+=100	=100	=100	=100	=100	=100
+so	re	r	so	te	1
+r	.	.	te	so	2
+=101	=101	=101	=101	=101	=101
+so	re	r	so	te	1
+r	.	.	te	so	2
+=102	=102	=102	=102	=102	=102
+do	me	r	le	le	1
+do	.	.	.	.	3
+do	.	.	.	.	2
+do	.	.	.	.	3
+=103	=103	=103	=103	=103	=103
+do	me	r	le	le	1
+do	.	.	.	le	3
+do	.	.	.	te	2
+do	.	.	.	do	3
+=104	=104	=104	=104	=104	=104
+re	le	r	fa	do	1
+re	.	.	.	te	3
+re	.	.	.	fa	2
+re	.	.	.	me	3
+=105	=105	=105	=105	=105	=105
+re	te	r	fa	re	1
+re	.	.	.	do	3
+re	.	.	.	te	2
+re	.	.	.	le	3
+=106	=106	=106	=106	=106	=106
+me	te	r	fa	le	1
+me	te	.	me	so	3
+le	le	.	do	le	2
+le	le	.	le	fa	3
+=107	=107	=107	=107	=107	=107
+te	te	r	le	fa	1
+te	te	.	so	me	3
+te	te	.	so	me	2
+te	te	.	fa	re	3
+=108	=108	=108	=108	=108	=108
+so	te	r	me	me	1
+me	so	.	.	.	3
+so	te	.	r	.	2
+me	so	.	.	.	3
+=109	=109	=109	=109	=109	=109
+so	te	r	r	me	1
+fa	le	.	.	.	4
+me	so	.	.	.	3
+fa	le	.	.	.	4
+so	te	.	.	.	2
+me	so	.	.	.	3
+=110	=110	=110	=110	=110	=110
+do	so	r	te	mi	1
+=111	=111	=111	=111	=111	=111
+do	so	r	te	mi	1
+=112	=112	=112	=112	=112	=112
+le	do	r	fa	fa	1
+fa	le	.	.	.	3
+le	do	.	r	.	2
+fa	le	.	.	.	3
+=113	=113	=113	=113	=113	=113
+le	do	r	r	fa	1
+so	te	.	.	.	4
+fa	le	.	.	.	3
+so	te	.	.	.	4
+le	do	.	.	.	2
+fa	le	.	.	.	3
+=114	=114	=114	=114	=114	=114
+re	la	r	do	fi	1
+=115	=115	=115	=115	=115	=115
+re	la	r	do	fi	1
+=116	=116	=116	=116	=116	=116
+so	so	r	ti	so	1
+r	do	.	me	so	2
+=117	=117	=117	=117	=117	=117
+r	ti	r	re	so	1
+do	me	.	r	so	2
+do	me	.	.	so	3
+=118	=118	=118	=118	=118	=118
+ti	re	r	r	so	1
+ti	re	.	.	so	3
+r	do	.	me	so	2
+=119	=119	=119	=119	=119	=119
+r	ti	r	re	so	1
+do	me	.	r	so	2
+do	me	.	.	so	3
+=120	=120	=120	=120	=120	=120
+ti	re	r	r	so	1
+ti	re	.	.	so	3
+r	r	.	.	so	2
+=121	=121	=121	=121	=121	=121
+r	r	r	r	so	1
+=122	=122	=122	=122	=122	=122
+r	r	r	r	so	1
+=123	=123	=123	=123	=123	=123
+r	r	r	r	so	1
+=124	=124	=124	=124	=124	=124
+r	r	r	r	so	1
+=125	=125	=125	=125	=125	=125
+r	r	r	r	so	1
+=126	=126	=126	=126	=126	=126
+do	mi	r	mi	so	1
+r	r	.	r	mi	3
+do	mi	.	mi	so	2
+r	r	.	r	mi	3
+=127	=127	=127	=127	=127	=127
+do	mi	r	mi	so	1
+r	r	.	r	so	2
+=128	=128	=128	=128	=128	=128
+do	mi so	r	do mi	so	1
+do	mi so	.	mi do	mi	3
+do	mi so	.	do mi	so	2
+do	mi so	.	mi do	mi	3
+=129	=129	=129	=129	=129	=129
+do	so mi	r	mi do	so	1
+r	r	.	r	so	2
+=130	=130	=130	=130	=130	=130
+la	mi	r	di	la	1
+la	mi	.	di	la	3
+la	mi	.	di	so	2
+la	mi	.	di	fa	3
+=131	=131	=131	=131	=131	=131
+re	re	r	re	fa	1
+re	re	.	re	fa	3
+so	re	.	ti	so	2
+so	re	.	ti	fa	3
+=132	=132	=132	=132	=132	=132
+do	do	r	do	mi	1
+do	do	.	do	mi	3
+fa	fa	.	la	fa	2
+fa	fa	.	so	mi	3
+=133	=133	=133	=133	=133	=133
+so	so	r	mi	do	1
+so	r	.	re	ti	2
+r	.	.	r	r	3
+=134	=134	=134	=134	=134	=134
+r	ti	r	re	so	1
+=135	=135	=135	=135	=135	=135
+r	ti	r	re	so	1
+=136	=136	=136	=136	=136	=136
+r	do	r	mi	so	1
+=137	=137	=137	=137	=137	=137
+r	do	r	mi	so	1
+=138	=138	=138	=138	=138	=138
+r	re	r	fa	so	1
+=139	=139	=139	=139	=139	=139
+r	ti	r	re	so	1
+=140	=140	=140	=140	=140	=140
+te	do	r	mi	do	1
+so	r	.	r	r	3
+te	so	.	mi do	do	2
+so	r	.	r	r	3
+=141	=141	=141	=141	=141	=141
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	.	.	.	.	3
+la	.	.	.	.	4
+te	r	.	r	r	2
+so	.	.	.	.	3
+=142	=142	=142	=142	=142	=142
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	so	.	mi do	do	3
+la	.	.	.	.	4
+te	so	.	mi do	do	2
+la	.	.	.	.	4
+so	so	.	mi do	do	3
+la	.	.	.	.	4
+=143	=143	=143	=143	=143	=143
+te	so	r	mi do	do	1
+la	.	.	.	.	4
+so	.	.	.	.	3
+la	.	.	.	.	4
+te	r	.	r	r	2
+so	.	.	.	.	3
+=144	=144	=144	=144	=144	=144
+fa	do	r	do	la	1
+fa	.	.	.	do	3
+mi	.	.	.	so	2
+mi	.	.	.	so	3
+=145	=145	=145	=145	=145	=145
+re	fa	r	do	fa	1
+re	fa	.	ti	la	3
+do	so	.	do	mi	2
+do	so	.	do	mi	3
+=146	=146	=146	=146	=146	=146
+fa	la	r	la	re	1
+fa	la	.	la	fa	3
+so	fa	.	re	ti	2
+so	fa	.	fa	re	3
+=147	=147	=147	=147	=147	=147
+do	mi	r	mi	do	1
+r	r	.	r	r	2
+=148	=148	=148	=148	=148	=148
+r	r	r	mi	so	1
+mi	so	.	r	r	2
+do	mi	.	.	.	3
+=149	=149	=149	=149	=149	=149
+r	r	r	do	mi	1
+do	mi	.	r	r	2
+mi	so	.	.	.	3
+=150	=150	=150	=150	=150	=150
+r	r	r	mi	so	1
+=151	=151	=151	=151	=151	=151
+mi	so	r	r	r	1
+re	fa	.	.	.	4
+do	mi	.	.	.	3
+re	fa	.	.	.	4
+mi	so	.	.	.	2
+do	mi	.	.	.	3
+=152	=152	=152	=152	=152	=152
+r	r	r	do	mi	1
+=153	=153	=153	=153	=153	=153
+do	mi	r	r	r	1
+re	fa	.	.	.	4
+mi	so	.	.	.	3
+re	fa	.	.	.	4
+do	mi	.	.	.	2
+mi	so	.	.	.	3
+=154	=154	=154	=154	=154	=154
+r	r	r	mi	so	1
+=155	=155	=155	=155	=155	=155
+do	mi	r	mi	so	1
+re	fa	.	re	fa	4
+mi	so	.	do	mi	3
+re	fa	.	re	fa	4
+do	mi	.	mi	so	2
+re	fa	.	re	fa	4
+mi	so	.	do	mi	3
+re	fa	.	re	fa	4
+=156	=156	=156	=156	=156	=156
+do	mi	r	mi	so	1
+re	fa	.	re	fa	4
+mi	so	.	do	mi	3
+re	fa	.	re	fa	4
+do	mi	.	mi	so	2
+do	so	.	mi	so	3
+=157	=157	=157	=157	=157	=157
+do	mi	r	so	te	1
+r	r	.	r	r	2
+=158	=158	=158	=158	=158	=158
+fa	do	r	la	la	1
+la	do	.	do	.	3
+fa	do	.	la	.	2
+la	do	.	do	.	3
+=159	=159	=159	=159	=159	=159
+fa	do	r	la	la	1
+r	r	.	r	ti	2
+=160	=160	=160	=160	=160	=160
+so	mi	r	do	mi	1
+so	mi	.	do	fi	3
+so	mi	.	do	fi	2
+so	mi	.	do	fi	3
+=161	=161	=161	=161	=161	=161
+so	mi	r	do	so	1
+so	mi	.	do	la	3
+so	mi	.	do	fa	2
+so	mi	.	do	re	3
+=162	=162	=162	=162	=162	=162
+so	re	r	do	so	1
+so	re	.	do	r	3
+so	re	.	ti	re ti	2
+so	re	.	re	r	3
+=163	=163	=163	=163	=163	=163
+do	do	r	do	do mi	1
+r	r	.	r	r	2
+=164	=164	=164	=164	=164	=164
+so	so	r	re	fa	1
+r	so	.	re	fa	2
+=165	=165	=165	=165	=165	=165
+do	so	r	do	mi	1
+r	so	.	do	mi	2
+=166	=166	=166	=166	=166	=166
+so	so	r	re	fa	1
+r	so	.	re	fa	2
+=167	=167	=167	=167	=167	=167
+do	so	r	do	mi	1
+r	r	.	r	so	2
+=168	=168	=168	=168	=168	=168
+so	re	r	fa	so	1
+r	ti	.	re	so	3
+so	re	.	fa	so	2
+r	ti	.	re	so	3
+=169	=169	=169	=169	=169	=169
+do	do	r	mi	so	1
+r	do	.	mi	so	2
+=170	=170	=170	=170	=170	=170
+so	re	r	fa	so	1
+r	ti	.	re	so	3
+so	re	.	fa	so	2
+r	ti	.	re	so	3
+=171	=171	=171	=171	=171	=171
+do	do	r	mi	so	1
+r	r	.	r	r	2
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Quators ("Jungfernquartette")
+!!!OPT: The Bird
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 633457932
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

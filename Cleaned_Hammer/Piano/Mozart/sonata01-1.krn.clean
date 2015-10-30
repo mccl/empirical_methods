@@ -1,0 +1,56 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 1 in C major
+!!!SCT1: K<sup>1</sup> 279
+!!!SCT2: K<sup>6</sup> 189d
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro
+!!!ODT: 1774///
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B]	*>[A,A,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-
+(16C\LL	4e/ 4g/ 4cc/	1
+16c\	.	5
+16B\	.	4
+16c\JJ	.	5
+8C/)	8r	3
+8r	(16cc\LL	4
+2r	16dd\LL	2
+=2	=2	=2
+4FF/ 4F/	4a\ 4dd\ 4ff\ 4aa\	1
+4r	(16gg\LL	3
+8r	16cc\LL	2
+(8E\L	16cc\	4
+8F\	(16dd\LL	3
+8G\J)	(16b\	4
+=3	=3	=3
+(16C\LL	4e/ 4g/ 4cc/	1
+16c\	.	5
+16B\	.	4
+16c\JJ	.	5
+8C/)	8r	3
+8r	(16cc\LL	4
+2r	16dd\LL	2
+=4	=4	=4
+4FF/ 4F/	4a\ 4dd\ 4ff\ 4aa\	1
+4r	(16gg\LL	3
+8r	16cc\LL	2
+(8E\L	16cc\	4
+8F\	(16dd\LL	3
+8G\J)	(16b\	4
+*clefG2	*	*
+=5	=5	=5
+16c/LL	8cc\L	1
+16g/	.	5

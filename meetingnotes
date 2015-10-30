@@ -1,0 +1,23 @@
+email to smt-announce and informatics list.
+files uploaded to server.
+
+write a readme.
+our script needs to be ready.
+
+
+Leigh: Empirical Methods Overview, motivation and basic tools (20 minutes)
+
+let's do a real music theory thing now:
+
+Heres how to understand Humdrum.
+
+Josh and Dan:
+Discussion of Operationalization
+
+Operationalization
+	- Search for breaks (how do we define breaks?)
+	- Easy: Finding moments of complete silence in all voices.
+		- How do we narrow it down?
+		- Places where we have scale degree 5 in the bass, immediately before a rest.
+
+

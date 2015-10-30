@@ -1,0 +1,36 @@
+!!!COM: Haydn, Franz Joseph
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!OTL: Sonata No. 16 in D major
+!!!SCT: Hob. XVI:14
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro moderato
+!!!ODT: 1760-1765///
+!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 3
+!!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B,B]	*>[A,A,B,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M2/4	*M2/4	*M2/4
+*M2/4	*M2/4	*M2/4
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+16r	(16d/	4
+=1	=1	=1
+(8D\L	8.f#/L	1
+8A\	.	3
+8E\	8.g/L	2
+8A\J	.	3
+=2	=2	=2
+8F#\L	8.d/L	1
+8A\J)	.	3
+8r	16.d/LL)	2
+(8F#\	16.dd/	3
+=3	=3	=3
+8G\L	16.b/LL)	1
+8F#\	16.d/	3

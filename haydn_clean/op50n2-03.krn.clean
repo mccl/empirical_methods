@@ -1,0 +1,271 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in C Major
+!!!ONM: Opus 50, No. 2
+!!!OTL: Affettuoso 
+!!!OMV: 3
+!!!SCT: H III:45
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Trautwein Edition
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*clefF4	*clefC3	*clefG	*clefG	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+r	r	r	r	1
+r	r	r	so	2
+=1	=1	=1	=1	=1
+r	r	r	so	1
+=2	=2	=2	=2	=2
+r	r	r	so	1
+di	.	mi	.	2
+re	.	fa	.	2
+=3	=3	=3	=3	=3
+ti	r	re	so	1
+do	.	mi	.	2
+la	la	fi	do	2
+=4	=4	=4	=4	=4
+so	do	so	mi	1
+r	r	.	so	2
+=5	=5	=5	=5	=5
+r	r	r	la	1
+=6	=6	=6	=6	=6
+r	r	r	ti	1
+=7	=7	=7	=7	=7
+fa	la	do	re	1
+fi	.	.	me	2
+so	so	fa	ti	2
+=8	=8	=8	=8	=8
+do	ti	fa	re	1
+r	r	r	so	2
+=9	=9	=9	=9	=9
+r	r	r	te	1
+=10	=10	=10	=10	=10
+r	r	r	di	1
+=11	=11	=11	=11	=11
+r	mi	di	mi	1
+=12	=12	=12	=12	=12
+r	re	re	fa	1
+la	r	r	r	2
+=13	=13	=13	=13	=13
+la	r	r	r	1
+fa	.	.	.	2
+re	re	si	fa	2
+=14	=14	=14	=14	=14
+di	mi	la	mi	1
+la	r	r	di	2
+so	.	.	r	2
+=15	=15	=15	=15	=15
+te	r	r	r	1
+so	.	.	.	2
+mi	so	te	di	2
+=16	=16	=16	=16	=16
+fa	fa	la	re	1
+=17	=17	=17	=17	=17
+so	re	te	mi	1
+la	di	so	di	2
+=18	=18	=18	=18	=18
+te	di	so	mi	1
+=19	=19	=19	=19	=19
+te	re	fa	re	1
+=20	=20	=20	=20	=20
+r	r	r	r	1
+=21	=21	=21	=21	=21
+r	r	r	la	1
+=22	=22	=22	=22	=22
+r	r	r	la	1
+=23	=23	=23	=23	=23
+r	di	mi	la	1
+=24	=24	=24	=24	=24
+r	r	r	la	1
+=25	=25	=25	=25	=25
+r	r	r	so	1
+=26	=26	=26	=26	=26
+r	r	r	so	1
+di	.	mi	.	2
+re	.	fa	.	2
+=27	=27	=27	=27	=27
+ti	r	re	so	1
+do	.	mi	.	2
+la	la	fi	do	2
+=28	=28	=28	=28	=28
+so	do	so	mi	1
+r	r	.	so	2
+=29	=29	=29	=29	=29
+r	r	r	la	1
+=30	=30	=30	=30	=30
+r	r	r	ti	1
+=31	=31	=31	=31	=31
+fa	la	do	re	1
+fi	.	.	me	2
+so	so	fa	ti	2
+=32	=32	=32	=32	=32
+si	ti	fa	re	1
+la	la	mi	do	2
+r	r	r	r	2
+=33	=33	=33	=33	=33
+r	r	re	fa	1
+=34	=34	=34	=34	=34
+r	r	re	fa	1
+=35	=35	=35	=35	=35
+do	r	mi	la	1
+la	.	.	do	2
+re	.	do	fi	2
+=36	=36	=36	=36	=36
+so	r	do	la	1
+=37	=37	=37	=37	=37
+so	so	r	r	1
+=38	=38	=38	=38	=38
+so	so	r	r	1
+=39	=39	=39	=39	=39
+so	so	ti	re	1
+=40	=40	=40	=40	=40
+so	so	do	mi	1
+=41	=41	=41	=41	=41
+so	la	r	r	1
+=42	=42	=42	=42	=42
+so re	ti	r	r	1
+mi	do	mi	so	2
+=43	=43	=43	=43	=43
+fa so	la	re	fa	1
+so so	so	do	mi	2
+so so	fa	ti	re	2
+=44	=44	=44	=44	=44
+do	mi	do	do	1
+r	r	r	r	2
+=45	=45	=45	=45	=45
+le	le	fa do	do	1
+=46	=46	=46	=46	=46
+so	te	do so	mi	1
+r	r	r	r	2
+=47	=47	=47	=47	=47
+mi	te	so do	do	1
+=48	=48	=48	=48	=48
+fa	do	do le	le	1
+r	r	r	r	2
+=49	=49	=49	=49	=49
+so	fa so	ti re	fa	1
+r	r	r	re	2
+=50	=50	=50	=50	=50
+do	so mi	do mi	do	1
+r	r	r	r	2
+=51	=51	=51	=51	=51
+do	mi	do	r	1
+=52	=52	=52	=52	=52
+ti	re	so	r	1
+=53	=53	=53	=53	=53
+la	do	r	la	1
+=54	=54	=54	=54	=54
+so	ti	r	mi	1
+=55	=55	=55	=55	=55
+fa	la	fa	r	1
+=56	=56	=56	=56	=56
+mi	so	do	r	1
+=57	=57	=57	=57	=57
+re	la	r	do	1
+=58	=58	=58	=58	=58
+so	ti	r	so	1
+r	r	.	r	2
+=59	=59	=59	=59	=59
+so	r	re	fa	1
+ti	.	.	.	3
+re	.	ti	re	2
+ti	.	.	.	3
+so	.	re	fa	2
+ti	.	.	.	3
+=60	=60	=60	=60	=60
+so	r	do	mi	1
+do	.	.	.	3
+mi	.	r	r	2
+so	.	.	.	3
+mi	.	mi	do	2
+do	.	.	.	3
+=61	=61	=61	=61	=61
+so	r	fa	re	1
+ti	.	.	.	3
+re	.	re	ti	2
+ti	.	.	.	3
+so	.	fa	re	2
+ti	.	.	.	3
+=62	=62	=62	=62	=62
+do	r	mi	do	1
+so	.	.	.	3
+mi	.	r	r	2
+do	.	.	.	3
+mi	.	do	mi	2
+do	.	.	.	3
+=63	=63	=63	=63	=63
+so	so	re	fa	1
+r	re	ti	re	2
+=64	=64	=64	=64	=64
+so	so	do	mi	1
+r	mi	r	r	2
+=65	=65	=65	=65	=65
+so	la	la	do	1
+r	re	fi	la	2
+=66	=66	=66	=66	=66
+so	ti	so	so	1
+r	r	r	r	2
+=67	=67	=67	=67	=67
+do	mi	mi	do	1
+=68	=68	=68	=68	=68
+ti	re	re	so	1
+r	r	ti	r	2
+=69	=69	=69	=69	=69
+r	r	r	r	1
+=70	=70	=70	=70	=70
+r	do	mi	do	1
+=71	=71	=71	=71	=71
+r	ti	re	so	1
+=72	=72	=72	=72	=72
+r	r	r	r	1
+=73	=73	=73	=73	=73
+do	mi	r	r	1
+mi	la	.	.	2
+so	mi	.	.	2
+=74	=74	=74	=74	=74
+so	re	r	r	1
+r	ti	.	.	2
+=75	=75	=75	=75	=75
+do	so	mi	do	1
+=76	=76	=76	=76	=76
+di	la	mi	so	1
+=77	=77	=77	=77	=77
+re	te	fa	fa	1
+=78	=78	=78	=78	=78
+mi	do	so	te	1
+=79	=79	=79	=79	=79
+fa	do	la	la	1
+=80	=80	=80	=80	=80
+fi	me	la	do	1
+=81	=81	=81	=81	=81
+so	so	so	mi	1
+=82	=82	=82	=82	=82
+do	mi	do	do	1
+r	r	r	r	2
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Quartetti ("Prussian")
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 2796815637
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

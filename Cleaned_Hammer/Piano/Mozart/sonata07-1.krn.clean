@@ -1,0 +1,23 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 7 in C major
+!!!SCT1: K<sup>1</sup> 309
+!!!SCT2: K<sup>6</sup> 284b
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro con spirito
+!!!ODT: 1777///
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B]	*>[A,A,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-

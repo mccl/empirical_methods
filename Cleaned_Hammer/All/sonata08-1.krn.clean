@@ -1,0 +1,23 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 8 in A minor
+!!!SCT1: K<sup>1</sup> 310
+!!!SCT2: K<sup>6</sup> 300d
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro maestoso
+!!!ODT: 1778///
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B,B]	*>[A,A,B,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-

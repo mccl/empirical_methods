@@ -1,0 +1,60 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in D Minor
+!!!ONM: Opus 103
+!!!OTL: Menuetto + Trio 
+!!!OMV: 3
+!!!SCT: H III:83
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Offenbach Edition 2377, 1807
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*A:	*A:	*
+*clefC1	*clefC1	*clefC1	*clefC1	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+so	so	so	so	1
+r	r	r	r	3
+mi	mi	mi	mi	4
+fa	fa	fa	fa	2
+re	re	re	re	4
+do	do	do	do	3
+ti	ti	ti	ti	4
+=2	=2	=2	=2	=2
+do	do	do	do	1
+r	r	r	r	3
+=3	=3	=3	=3	=3
+fa	fa	fa	fa	1
+r	r	r	r	3
+re	re	re	re	4
+mi	mi	mi	mi	2
+r	r	r	r	3
+do	do	do	do	4
+=4	=4	=4	=4	=4
+re	re	re	re	1
+r	r	r	r	3
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 10 Divertimentos
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 1056783420
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

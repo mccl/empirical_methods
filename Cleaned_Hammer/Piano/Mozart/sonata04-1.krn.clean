@@ -1,0 +1,41 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 4 in E-flat major
+!!!SCT1: K<sup>1</sup> 282
+!!!SCT2: K<sup>6</sup> 189g
+!!!OMV: Mvmt. 1
+!!!OMD: Adagio
+!!!ODT: 1774///
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B,B,C]	*>[A,A,B,B,C]	*
+*>norep[A,B,C]	*>norep[A,B,C]	*
+*>A	*>A	*
+*clefG2	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-
+*^	*	*
+4g/	4e-\	(8.b-\L	1
+4g/	4e-\	[4b-\	3
+4f/	4d\	8b-\L]	2
+8g/L	4c\	8ee-\)	3
+8an/J	.	8ee-'\J	4
+=2	=2	=2	=2
+4b-/	4B-\	(16ee-\LL	1
+*clefF4	*clefF4	*	*
+4d'/	2B-\	4b-\	3
+4en/	.	(16dd\LL	2
+4f/	[4A-\	.	3
+=3	=3	=3	=3
+4d/	4A-\]	(16cc\LL	1
+2e-/	4G\	.	3
+4d/	4B-\	.	3
+*v	*v	*	*
+=4	=4	=4

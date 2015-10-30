@@ -1,0 +1,193 @@
+!!!COM: Haydn, Franz Joseph
+!!!OPR: String Quartet in C Major
+!!!ONM: Opus 33, No. 3
+!!!OTL: Affettuoso 
+!!!OMV: 2
+!!!SCT: H III:39
+!!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
+!!!YOR: Richault Edition, volume 7
+!!!ENC: Frances Bennion
+!!!CDT: 1732/3/31/-1809/5/31/
+!!!CNT: Oesterreich
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+**solfa	**solfa	**solfa	**solfa	**metpos
+*k[]	*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*C:	*
+*clefF4	*clefC3	*clefF	*clefF	*
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32	*tb32	*tb32
+r	r	r	r	1
+mi	so	do	do	2
+=1	=1	=1	=1	=1
+mi	so	do	do	1
+fa	la	la	re	2
+=2	=2	=2	=2	=2
+mi	so	so	do	1
+re	fa	.	ti	2
+do	mi	.	do	2
+=3	=3	=3	=3	=3
+ti	so	ti	re	1
+la	.	do	mi	2
+so	.	re	fa	2
+=4	=4	=4	=4	=4
+do	so	re	fa	1
+fa	la	la	re	2
+=5	=5	=5	=5	=5
+fa	re	la	re	1
+so	te	te	mi	2
+=6	=6	=6	=6	=6
+fa	la	la	re	1
+mi	so	.	di	2
+re	fa	.	re	2
+=7	=7	=7	=7	=7
+di	mi	la	mi	1
+re	la	re	fi	2
+=8	=8	=8	=8	=8
+ti	so	re	re	1
+do	.	do	mi	2
+=9	=9	=9	=9	=9
+fa	fa	la	re	1
+so	mi	so	do	2
+so	re	ti	ti	2
+=10	=10	=10	=10	=10
+do	do	do	do	1
+r	r	r	r	2
+mi	mi	so	so	2
+=11	=11	=11	=11	=11
+mi	mi	so	so	1
+re	so	ti	fa	2
+=12	=12	=12	=12	=12
+do	so	do	mi	1
+so	.	ti	re	2
+fa	fa	la	la	2
+=13	=13	=13	=13	=13
+fa	fa	la	la	1
+mi	la	di	so	2
+=14	=14	=14	=14	=14
+re	la	re	fa	1
+la	la	di	mi	2
+te	fa	re	re	2
+=15	=15	=15	=15	=15
+te	fa	te	re	1
+te	fa	te	re	2
+te	fa	te	re	2
+=16	=16	=16	=16	=16
+so	so	te	mi	1
+fa	fa	la	fa	2
+mi	mi	so	so	2
+=17	=17	=17	=17	=17
+la	re	la	fa	1
+=18	=18	=18	=18	=18
+re	re	re	re	1
+r	r	r	r	2
+re	la	re	fa	2
+=19	=19	=19	=19	=19
+re	la	re	fa	1
+do	la	me	fi	2
+=20	=20	=20	=20	=20
+do	la	me	fi	1
+ti	so	re	so	2
+fa	so	ti	re	2
+=21	=21	=21	=21	=21
+fa	so	ti	re	1
+mi	so	di	mi	2
+=22	=22	=22	=22	=22
+mi	so	di	mi	1
+re	fa	re	fa	2
+so	so	ti	re	2
+=23	=23	=23	=23	=23
+do	so	do	mi	1
+fa	la	la	fa	2
+fa	fa	la	re	2
+=24	=24	=24	=24	=24
+so	re	so	ti	1
+mi	so	do	do	2
+=25	=25	=25	=25	=25
+mi	so	do	do	1
+fa	la	la	re	2
+=26	=26	=26	=26	=26
+mi	so	so	do	1
+re	fa	.	ti	2
+do	mi	.	do	2
+=27	=27	=27	=27	=27
+ti	so	ti	re	1
+la	.	do	mi	2
+so	.	re	fa	2
+=28	=28	=28	=28	=28
+do	so	re	fa	1
+fa	la	la	re	2
+=29	=29	=29	=29	=29
+fa	re	la	re	1
+so	te	te	mi	2
+=30	=30	=30	=30	=30
+fa	la	la	re	1
+mi	so	.	di	2
+re	fa	.	re	2
+=31	=31	=31	=31	=31
+di	mi	la	mi	1
+re	la	re	fi	2
+=32	=32	=32	=32	=32
+ti	so	re	re	1
+do	.	do	mi	2
+=33	=33	=33	=33	=33
+fa	fa	la	re	1
+so	mi	so	do	2
+so	re	ti	ti	2
+=34	=34	=34	=34	=34
+do	do	do	do	1
+r	r	r	r	2
+=35	=35	=35	=35	=35
+r	r	mi	so	1
+=36	=36	=36	=36	=36
+r	r	mi	so	1
+=37	=37	=37	=37	=37
+r	r	do	mi	1
+=38	=38	=38	=38	=38
+r	r	do	do	1
+=39	=39	=39	=39	=39
+r	r	do	mi	1
+=40	=40	=40	=40	=40
+r	r	ti	so	1
+=41	=41	=41	=41	=41
+r	r	so	ti	1
+=42	=42	=42	=42	=42
+r	r	so	so	1
+=43	=43	=43	=43	=43
+r	r	re	fa	1
+=44	=44	=44	=44	=44
+r	r	ti	re	1
+=45	=45	=45	=45	=45
+r	r	re	fa	1
+=46	=46	=46	=46	=46
+r	r	ti	re	1
+=47	=47	=47	=47	=47
+r	r	mi	so	1
+=48	=48	=48	=48	=48
+r	r	mi	so	1
+=49	=49	=49	=49	=49
+r	r	do	mi	1
+=50	=50	=50	=50	=50
+r	r	do	do	1
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RWG1: This file contains only pitch and duration data.
+!!!RWG2: Transposing instruments are not transposed.
+!!!RWG3: Spines may have incompatible meters.
+!!!RWG4: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!GTL: 6 Quators ("Jungfernquartette")
+!!!OPT: The Bird
+!!!AFT: stage1
+!!!END: 1997/04/15
+!!!KEY: 1249384729
+!!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EMD: Manual editing by Craig Sapp, Nov 2001

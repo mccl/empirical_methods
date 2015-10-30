@@ -1,0 +1,64 @@
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!OTL: Piano Sonata no. 1 in F minor, mvmt. 1
+!!!ODT: 1794///-1795///
+!!!ODE: Joseph Haydn
+!!!OMD: Allegro
+!!!OPS: Op. 2
+!!!ONM: No. 1
+!!!OMV: No. 1
+!!!AGN: Sonata Form
+**kern	**kern	**metpos
+*Ipiano	*Ipiano	*
+*>[A,A,B,B]	*>[A,A,B,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*f:	*f:	*
+*M2/2	*M2/2	*M2/2
+*M2/2	*M2/2	*M2/2
+!	!	!
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+4r	4c'/	3
+=1	=1	=1
+1r	4f'/	1
+=2	=2	=2
+4r	(4.aa-\	1
+!	!	!
+4F\ 4A-\ 4c\	.	3
+4F\ 4A-\ 4c\	4ff'\)	2
+4F\ 4A-\ 4c\	4r	3
+=3	=3	=3
+4E\ 4G\ 4B-\ 4c\	4g'/	1
+4r	4cc'\	3
+2r	4ee'\	2
+=4	=4	=4
+4r	(4.bb-\	1
+4E\ 4G\ 4B-\ 4c\	.	3
+4E\ 4G\ 4B-\ 4c\	4gg'\)	2
+4E\ 4G\ 4B-\ 4c\	4r	3
+!!LO:LB:g=dukas
+!!LO:LB:g=z16
+=5	=5	=5
+!	!LO:DY:X=-20	!
+4r	(4.aa-z\)	1
+4F\ 4A-\ 4c\	.	3
+4F\ 4A-\ 4c\	4ff'\)	2
+4F\ 4A-\ 4c\	4r	3
+=6	=6	=6
+!	!LO:DY:X=-20	!
+4r	(4.bb-z\)	1
+4G\ 4B-\ 4e\	.	3
+!	!	!
+4G\ 4B-\ 4e\	4gg'\)	2
+4G\ 4B-\ 4e\	4r	3
+=7	=7	=7
+!	!	!
+4r	2cc\: 2ff\: 2aa-\: 2ccc\:	1
+4A-\ 4c\ 4f\	.	3
+!	!	!
+4r	(8bb-\L	2
+4B-\ 4d-\ 4g\	8gg\	3
+=8	=8	=8

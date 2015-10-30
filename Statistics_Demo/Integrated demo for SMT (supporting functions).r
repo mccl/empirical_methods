@@ -13,6 +13,7 @@ pianoData$pitchHeight=pianoData$pitchHeight-(12*3+4)  # we coded lowest piano no
 
 # load usefulRoutines.r
 source(paste(dataPath,"usefulRoutines (for SMT).r",sep=""))
+library(plyr)  # for doing counts of chi-square stuff
 
        # pitch info
 majorAll=subset(pianoData, mode=="Major")$pitchHeight
@@ -143,7 +144,7 @@ plotComparisons=function(v1,v2,num)
 # numNotes: The number of pitches from each part to compare
 # numComparisons: number of times to compare pitch heights
 
-sampleDifferences=function(v1,v2,numComparisons=100,numNotes=10,showPlot=T)
+sampleDifferences=function(v1,v2,numComparisons=100,numNotes=10,showPlot=T,minRange=NULL)
 {
   results=NULL
   for (index in 1:numComparisons)
@@ -155,8 +156,21 @@ sampleDifferences=function(v1,v2,numComparisons=100,numNotes=10,showPlot=T)
   
   if (showPlot)
   {
-    hist(results,main=paste("Sampling",numNotes,"note(s)",numComparisons,"times"),xlim=c(-25,35),
-         xlab="Pitch height difference (semi-tones)",ylab="Number of occurances")
+    xMin=min(results)-1  # ensure range is just beyond what is encountered
+    xMax=max(results)+1
+    if (!(is.null(minRange)))
+    {
+      #cat ("checking range, starting with ",xMin,xMax)
+      xMin=min(xMin,minRange[1])  # if min range low value is smaller, go with that
+      xMax=max(xMax,minRange[2])  # if min range max value is higher, go with that
+      #cat ("after check ",xMin,xMax)
+    }
+    binValues=xMin:xMax
+    binCols=rep("white",length(binValues))
+    binCols[binValues<0]="slategray4"
+    hist(results,main=paste("Sampling",numNotes,"note(s)",numComparisons,"times"),xlim=c(xMin,xMax),
+         xlab="Pitch height difference (semi-tones)",ylab="Number of occurances",breaks=binValues,col=binCols)
+    abline(v=0,lty=2,col="red")
   }
   results
 }
@@ -212,9 +226,13 @@ visualizeVoices=function(v1,v2,numComparisons=100,numNotes=10,title="Violin pitc
     cat ("xmin=",xmin,"xmax=",xmax,"\n")
   }
   
-  hist(results1,xlim=c(xmin*.8,xmax*1.2),ylim=c(0,yMax*1.3),col=rgb(0,0,1,.5),main=title,xlab="Pitch Height (semi-tones from middle C)",ylab="Number of observations")
+  hist1=hist(results1,xlim=c(xmin*.8,xmax*1.2),ylim=c(0,yMax*1.3),col=rgb(0,0,1,.5),main=title,xlab="Pitch Height (semi-tones from middle C)",ylab="Number of observations")
   par(new=T)
-  hist(results2,xlim=c(xmin*.8,xmax*1.2),ylim=c(0,yMax*1.3),col=rgb(1,0,0,.5),main="",xlab="",ylab="",axes=F)
+  hist2=hist(results2,xlim=c(xmin*.8,xmax*1.2),ylim=c(0,yMax*1.3),col=rgb(1,0,0,.5),main="",xlab="",ylab="",axes=F)
+  legend(xmin*.8,yMax*1.2,legend=c("minor","Major"),fill=c(minCol,majCol),bty="n",horiz=T)
+  cat ("breaks 1=",hist1$breaks ,"\n")
+  cat ("breaks 2=",hist2$breaks ,"\n")
+  
   #legend(-20,bMax,legend=c("Violin 1","Violin 2"),fill=c("blue","red"),bty="n")
   #par(new=T)
   #hist(sample(v2,sampleSize),xlim=c(-8,40),ylim=c(0,yMax),col="red",main="",xlab="Pitch Height (semi-tones from middle C)",ylab="Number of notes")
@@ -253,12 +271,17 @@ viewSummary=function(g1,g2,colScheme="violin",datType="pitch")
     title="Bach WTC and Chopin Preludes"
   }
   yLabel="Average pitch height\n(distance from middle C)"
+  
+  title="Average pitch height"
   if (datType!="pitch")
+  {
     yLabel="Average attack rate\n(i.e. note attacks per-second)"
-  ret=basicPlot(cbind(g1,g2),ylab=yLabel,labels=c(label1,label2),col=c(col1,col2))
+    title="Average attack rate"
+  } 
+  ret=basicPlot(cbind(g1,g2),ylab=yLabel,labels=c(label1,label2),col=c(col1,col2),main=title)
 }
 
-viewDistributions=function(g1,g2,overlayed=T,colScheme="violin")
+viewDistributions=function(g1,g2,overlayed=T,colScheme="violin",type="pitch")
 {
   lowestBin=min(floor(c(g1,g2)))-1
   highestBin=max(floor(c(g1,g2)))+1
@@ -285,10 +308,14 @@ viewDistributions=function(g1,g2,overlayed=T,colScheme="violin")
     title="Bach WTC and Chopin Preludes"
   }
   
+  if (type=="pitch")
+    xlabel="Pitch height (semi-tones from middle C)"
+    else xlabel=type
+  
   if (overlayed)
   {
     par(mfrow=c(1,1),par(las=1))
-    hist(g1,xlim=c(lowestBin,highestBin),ylim=c(0,yMax),col=col1,main=title,xlab="Pitch Height (semi-tones from middle C)",ylab="Total number of measures",breaks=binValues)
+    hist(g1,xlim=c(lowestBin,highestBin),ylim=c(0,yMax),col=col1,main=title,xlab=xlabel,ylab="Total number of measures",breaks=binValues)
     par(new=T)
     hist(g2,xlim=c(lowestBin,highestBin),ylim=c(0,yMax),col=col2,main="",xlab=" ",ylab=" ",axes=F,breaks=binValues)
     legend(lowestBin,yMax,legend=c(label2,label1),fill=c(col2,col1),bty="n",horiz=T)
@@ -307,7 +334,7 @@ viewDistributions=function(g1,g2,overlayed=T,colScheme="violin")
       legend(lowestBin,yMax,legend=c(label1),fill=c(col1),bty="n")
       par(mar=(c(5,4,4,2)+.1))  # reset to "default" value
       par(xpd=NA)
-      text (mean(lowestBin,highestBin),-yMax/3.5,"Pitch Height (semi-tones from middle C)")
+      text (mean(lowestBin,highestBin),-yMax/3.5,xlabel)
       par(xpd=F)  # but turn this back off
     }
   #hist1

@@ -1,0 +1,784 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 15 in C major
+!!!ONB: Sonata No. 16 in NMA
+!!!SCT1: K 545
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro
+!!!ODT: 1788///
+**kern	**kern	**metpos
+*>[A,A,B,B]	*>[A,A,B,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*Ipiano	*Ipiano	*
+*staff2	*staff1	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-
+8c/L	2cc\	1
+8g/	.	4
+8e/	.	3
+8g/J	.	4
+8c/L	4ee\	2
+8g/	.	4
+8e/	4gg\	3
+8g/J	.	4
+=2	=2	=2
+8d/L	(4.b\	1
+8g/	.	4
+8f/	.	3
+8g/J	16cc\LL	4
+8c/L	4cc\	2
+8g/	.	4
+8e/	4r	3
+8g/J	.	4
+=3	=3	=3
+8c/L	2aa\	1
+8a/	.	4
+8f/	.	3
+8a/J	.	4
+8c/L	4gg\	2
+8g/	.	4
+8e/	4ccc\	3
+8g/J	.	4
+=4	=4	=4
+8B/L	4gg\	1
+8g/	.	4
+8d/	(8ff\L	3
+8g/J	16ee\L	4
+8c/L	4ee\	2
+8g/	.	4
+8e/	4r	3
+8g/J	.	4
+=5	=5	=5
+4f/	8a\L	1
+4r	16dd\LL	3
+4r	16aa\LL	2
+*clefF4	*	*
+4F\ 4c\	16dd\LL	3
+=6	=6	=6
+4E\ 4c\	8g/L	1
+4r	16cc\LL	3
+4r	16gg\LL	2
+4E\ 4c\	16cc/LL	3
+=7	=7	=7
+4D\ 4c\	8f/L	1
+4r	16b\LL	3
+4r	16ff\LL	2
+4D\ 4B\	16b/LL	3
+=8	=8	=8
+4C\ 4c\	8e/L	1
+4r	16a\LL	3
+4r	16ee\LL	2
+4C\ 4E\	16a/LL	3
+=9	=9	=9
+1F 1A	8d/L	1
+=10	=10	=10
+4.F\	16aa\LL	1
+8G\	16ff\	4
+4.A\	16ff\LL	2
+8F#\	16dd\	4
+=11	=11	=11
+16GG/LL	8b\L	1
+16BB/	.	5
+16D/	8gg\	4
+16G/JJ	.	5
+16GG/LL	8ee\	3
+16C/	.	5
+16E/	8cc\J	4
+16G/JJ	.	5
+16GG/LL	8dd\L	2
+16BB/	.	5
+16D/	8gg\	4
+16G/JJ	.	5
+16GG/LL	8ee\	3
+16C/	.	5
+16E/	8cc\J	4
+16G/JJ	.	5
+=12	=12	=12
+4GG/	4dd\	1
+4G\	4b\ 4dd\ 4gg\	3
+4GG/	4g/	2
+4r	4r	3
+=13	=13	=13
+16c#\LL	1r	1
+16d\	.	5
+16c#\	.	4
+16d\JJ	.	5
+16c#\LL	.	3
+16d\	.	5
+16c#\	.	4
+16d\JJ	.	5
+16cn\LL	.	2
+16d\	.	5
+16c\	.	4
+16d\JJ	.	5
+16c\LL	.	3
+16d\	.	5
+16c\	.	4
+16d\JJ	.	5
+=14	=14	=14
+16B\LL	(8ddd\L	1
+16d\	.	5
+16B\	8bb\J)	4
+16d\JJ	.	5
+16B\LL	(4.gg\	3
+16d\	.	5
+16B\	.	4
+16d\JJ	.	5
+16B\LL	.	2
+16d\	.	5
+16B\	16aa\LL	4
+16d\JJ	16bb\JJ	5
+16B\LL	8aa\L)	3
+16d\	.	5
+16B\	8gg'\J	4
+16d\JJ	.	5
+=15	=15	=15
+16c\LL	(8.gg\L	1
+16d\	.	5
+16B\	.	4
+16d\JJ	16ff#\Jk)	5
+16A\LL	4ff#\	3
+16d\	.	5
+16B\	.	4
+16d\JJ	.	5
+16c\LL	2r	2
+16d\	.	5
+16B\	.	4
+16d\JJ	.	5
+16c\LL	.	3
+16d\	.	5
+16A\	.	4
+16d\JJ	.	5
+=16	=16	=16
+16B\LL	(8ddd\L	1
+16d\	.	5
+16B\	8bb\J)	4
+16d\JJ	.	5
+16B\LL	(4.gg\	3
+16d\	.	5
+16B\	.	4
+16d\JJ	.	5
+16B\LL	.	2
+16d\	.	5
+16B\	16aa\LL	4
+16d\JJ	16bb\JJ	5
+16B\LL	8aa\L)	3
+16d\	.	5
+16B\	8gg'\J	4
+16d\JJ	.	5
+=17	=17	=17
+16c\LL	(8.gg\L	1
+16d\	.	5
+16B\	.	4
+16d\JJ	16ff#\Jk)	5
+16A\LL	4ff#\	3
+16d\	.	5
+16B\	.	4
+16d\JJ	.	5
+16c\LL	2r	2
+16d\	.	5
+16B\	.	4
+16d\JJ	.	5
+16c\LL	.	3
+16d\	.	5
+16A\	.	4
+16d\JJ	.	5
+*clefG2	*	*
+=18	=18	=18
+16r	4ddd\	1
+16B/LL	.	5
+16d/	.	4
+16g/JJ	.	5
+4b\	16r	3
+16r	4ee\	2
+16c/LL	.	5
+16e/	.	4
+16g/JJ	.	5
+4cc\	16r	3
+=19	=19	=19
+16r	4ccc\	1
+16A/LL	.	5
+16c/	.	4
+16f#/JJ	.	5
+4a/	16r	3
+16r	4dd\	2
+16B/LL	.	5
+16d/	.	4
+16f#/JJ	.	5
+4b\	16r	3
+=20	=20	=20
+16r	4bb\	1
+16G/LL	.	5
+16B/	.	4
+16e/JJ	.	5
+4g/	16r	3
+16r	4cc\	2
+16A/LL	.	5
+16c/	.	4
+16e/JJ	.	5
+4a/	16r	3
+=21	=21	=21
+16r	4aa\	1
+16F#/LL	.	5
+16A/	.	4
+16d/JJ	.	5
+4f#/	16r	3
+16r	4b\	2
+16G/LL	.	5
+16B/	.	4
+16d/JJ	.	5
+4g/	16r	3
+=22	=22	=22
+8c/ 8e/L	2a/	1
+8c/ 8e/	.	4
+8c/ 8e/	.	3
+8c/ 8e/J	.	4
+8c/ 8e/L	4cc\	2
+8c/ 8e/	.	4
+8c/ 8e/	4ee\	3
+8c/ 8e/J	.	4
+=23	=23	=23
+8c/ 8e/L	4.aa\)	1
+8c/ 8e/	.	4
+8c/ 8e/	.	3
+8c/ 8e/J	32bb\LLL	4
+8c/ 8e/L	(8ccc\L	2
+8c/ 8e/	8aa\)	4
+8c/ 8e/	(8ccc\	3
+8c/ 8e/J	8aa\J)	4
+=24	=24	=24
+16d/LL	(8bb\L	1
+16b/	.	5
+16g/	8ggn\J)	4
+16b/JJ	.	5
+16d/LL	2ddd\	3
+16b/	.	5
+16g/	.	4
+16b/JJ	.	5
+16d/LL	.	2
+16b/	.	5
+16g/	.	4
+16b/JJ	.	5
+16d/LL	16ccc\LL	3
+16b/	16bb\	5
+16g/	16aa\	4
+16b/JJ	16gg\JJ	5
+=25	=25	=25
+16d/LL	1aa	1
+16cc/	.	5
+16f#/	.	4
+16cc/JJ	.	5
+16d/LL	.	3
+16cc/	.	5
+16f#/	.	4
+16cc/JJ	.	5
+16d/LL	.	2
+16cc/	.	5
+16f#/	.	4
+16cc/JJ	.	5
+16d/LL	.	3
+16cc/	.	5
+16f#/	.	4
+16cc/JJ	.	5
+=26	=26	=26
+4g/ 4b/	4gg\	1
+4r	16gg\LL	3
+4r	16ddd\LL	2
+4d/ 4a/ 4cc/	16ccc\LL	3
+=27	=27	=27
+4g/ 4b/	4gg\	1
+4r	16g/LL	3
+4r	16dd/LL	2
+*clefF4	*	*
+4D\ 4A\ 4c\	16cc/LL	3
+=28	=28	=28
+4G\ 4B\	4g/	1
+4GG/ 4G/	4dd\ 4bb\	3
+4GG/ 4G/	4b\ 4gg\	2
+4r	4r	3
+=29:|!|:	=29:|!|:	=29:|!|:
+*>B	*>B	*
+4GG/ 4G/	4g/	1
+4r	16gg\LL	3
+4r	16ddd\LL	2
+*clefG2	*	*
+4d/ 4a/ 4cc/	16ccc\LL	3
+=30	=30	=30
+4g/ 4b-/	4gg\	1
+4r	16g/LL	3
+4r	16dd/LL	2
+*clefF4	*	*
+4D\ 4A\ 4c\	16cc/LL	3
+=31	=31	=31
+16r	4g/	1
+16GG/LL	.	5
+16AA/	.	4
+16BB-/JJ	.	5
+16C\LL	4r	3
+16D\	.	5
+16E\	.	4
+16F#\JJ	.	5
+4G\	16r	2
+4r	16gg\LL	3
+=32	=32	=32
+16r	4cc#\	1
+16AA/LL	.	5
+16BBn/	.	4
+16C#/JJ	.	5
+16D\LL	4r	3
+16E\	.	5
+16F#\	.	4
+16G#\JJ	.	5
+4A\	16r	2
+4r	16ccc#\LL	3
+=33	=33	=33
+4DD/ 4D/	4ffn\	1
+4r	16dd\LL	3
+4r	16aa\LL	2
+*clefG2	*	*
+4A/ 4e/ 4g/	16gg\LL	3
+=34	=34	=34
+4d/ 4f/	4dd\	1
+4r	16d/LL	3
+4r	16a/LL	2
+*clefF4	*	*
+4AA\ 4E\ 4G\	16g/LL	3
+=35	=35	=35
+4D\ 4F\	16r	1
+4r	16g\LL	3
+16r	4dd\	2
+16d\LL	.	5
+16f\	.	4
+16e\JJ	.	5
+16d\LL	4r	3
+16cn\	.	5
+16B\	.	4
+16A\JJ	.	5
+=36	=36	=36
+4G#\	16r	1
+4r	16ee\LL	3
+16r	4bb\	2
+16G#\LL	.	5
+16B\	.	4
+16A\JJ	.	5
+16G#\LL	4r	3
+16Fn\	.	5
+16E\	.	4
+16D\JJ	.	5
+=37	=37	=37
+4C/	16r	1
+4r	16ccc\LL	3
+*clefG2	*	*
+16r	4ffn\	2
+16d/LL	.	5
+16a/	.	4
+16g/JJ	.	5
+16f/LL	4r	3
+16e/	.	5
+16d/	.	4
+16c/JJ	.	5
+=38	=38	=38
+4B/	16r	1
+4r	16bb\LL	3
+16r	4ee\	2
+16c/LL	.	5
+16g/	.	4
+16f/JJ	.	5
+16e/LL	4r	3
+16d/	.	5
+16c/	.	4
+16B/JJ	.	5
+=39	=39	=39
+4A/	16r	1
+4r	16aa\LL	3
+*clefF4	*	*
+16r	4dd\	2
+16B\LL	.	5
+16f\	.	4
+16e\JJ	.	5
+16d\LL	4r	3
+16c\	.	5
+16B\	.	4
+16A\JJ	.	5
+=40	=40	=40
+4G#\	16r	1
+4r	16gg#\LL	3
+16r	4cc\	2
+16A\LL	.	5
+16c\	.	4
+16B\JJ	.	5
+16A\LL	4r	3
+16Gn\	.	5
+16F\	.	4
+16E\JJ	.	5
+=41	=41	=41
+2D\	16r	1
+2C\ 2G\ 2B-\	16e/LL	2
+*clefG2	*	*
+=42	=42	=42
+8f/L	2ff\	1
+8cc/	.	4
+8a/	.	3
+8cc/J	.	4
+8f/L	4aa\	2
+8cc/	.	4
+8a/	4ccc\	3
+8cc/J	.	4
+=43	=43	=43
+8g/L	(4.ee\	1
+8cc/	.	4
+8b-/	.	3
+8cc/J	16ff\LL	4
+8f/L	4ff\	2
+8cc/	.	4
+8a/	4r	3
+8cc/J	.	4
+=44	=44	=44
+8f/L	2ddd\	1
+8dd/	.	4
+8b-/	.	3
+8dd/J	.	4
+8f/L	4ccc\	2
+8cc/	.	4
+8a/	4fff\	3
+8cc/J	.	4
+=45	=45	=45
+8e/L	4ccc\	1
+8cc/	.	4
+8g/	(8bb-\L	3
+8cc/J	16aa\L	4
+8f/L	4aa\	2
+8cc/	.	4
+8a/	4r	3
+8cc/J	.	4
+=46	=46	=46
+4b-\	8dd\L	1
+4r	16gg\LL	3
+4r	16ddd\LL	2
+*clefF4	*	*
+4B-\ 4f\	16gg\LL	3
+=47	=47	=47
+4A\ 4f\	8cc\L	1
+4r	16ff\LL	3
+4r	16ccc\LL	2
+4A\ 4f\	16ff\LL	3
+=48	=48	=48
+4G\ 4f\	8b-\L	1
+4r	16ee\LL	3
+4r	16bb-\LL	2
+4G\ 4e\	16ee\LL	3
+=49	=49	=49
+4F\ 4f\	8a\L	1
+4r	16dd\LL	3
+2r	16aa\LL	2
+=50	=50	=50
+8F\L	4aa\	1
+16G\L	.	4
+16A\JJ	.	5
+16B-\LL	4r	3
+16c\	.	5
+16d\	.	4
+16e\JJ	.	5
+16f\LL	4r	2
+16e\	.	5
+16d\	.	4
+16c\JJ	.	5
+16B-\LL	4cc\ 4aa\	3
+16A\	.	5
+16G\	.	4
+16F\JJ	.	5
+=51	=51	=51
+8E\L	4cc\ 4gg\	1
+16F\L	.	4
+16G\JJ	.	5
+16A\LL	4r	3
+16Bn\	.	5
+16c\	.	4
+16d\JJ	.	5
+16e\LL	4r	2
+16d\	.	5
+16c\	.	4
+16B\JJ	.	5
+16A\LL	4cc\ 4gg\	3
+16G\	.	5
+16F\	.	4
+16E\JJ	.	5
+=52	=52	=52
+8D\L	4cc\ 4ff\	1
+16E\L	.	4
+16F\JJ	.	5
+16G\LL	4r	3
+(16A\	.	5
+16B\	.	4
+16c\JJ)	.	5
+16d\LL	4r	2
+16c\	.	5
+16B\	.	4
+16A\JJ	.	5
+16G\LL	4bn\ 4ff\	3
+16F\	.	5
+16E\	.	4
+16D\JJ	.	5
+=53	=53	=53
+8C\L	4cc\ 4ee\	1
+16D\L	.	4
+16E\JJ	.	5
+16F\LL	4r	3
+16G\	.	5
+16A\	.	4
+16B\JJ	.	5
+16c\LL	4r	2
+16B\	.	5
+16A\	.	4
+16G\JJ	.	5
+16F\LL	4cc\ 4ee\	3
+16E\	.	5
+16D\	.	4
+16C\JJ	.	5
+=54	=54	=54
+1F 1A	16dd/LL	1
+=55	=55	=55
+4.F\	16aa\LL	1
+8G\	16ff\	4
+4.A\	16ff\LL	2
+8F#\	16dd\	4
+=56	=56	=56
+16GG/LL	8b\L	1
+16BB/	.	5
+16D/	8gg\	4
+16G/JJ	.	5
+16GG/LL	8ee\	3
+16C/	.	5
+16E/	8cc\J	4
+16G/JJ	.	5
+16GG/LL	8dd\L	2
+16BB/	.	5
+16D/	8gg\	4
+16G/JJ	.	5
+16GG/LL	8ee\	3
+16C/	.	5
+16E/	8cc\J	4
+16G/JJ	.	5
+=57	=57	=57
+4GG/	4dd\	1
+4G\	4b\ 4dd\ 4gg\	3
+4GG/	4g/	2
+4r	4r	3
+*clefG2	*	*
+=58	=58	=58
+16f#/LL	1r	1
+16g/	.	5
+16f#/	.	4
+16g/JJ	.	5
+16f#/LL	.	3
+16g/	.	5
+16f#/	.	4
+16g/JJ	.	5
+16fn/LL	.	2
+16g/	.	5
+16f/	.	4
+16g/JJ	.	5
+16f/LL	.	3
+16g/	.	5
+16f/	.	4
+16g/JJ	.	5
+=59	=59	=59
+16e/LL	(8gg\L	1
+16g/	.	5
+16e/	8ee\J)	4
+16g/JJ	.	5
+16e/LL	(4.cc\	3
+16g/	.	5
+16e/	.	4
+16g/JJ	.	5
+16e/LL	.	2
+16g/	.	5
+16e/	16dd\LL	4
+16g/JJ	16ee\JJ	5
+16e/LL	8dd\L)	3
+16g/	.	5
+16e/	8cc'\J	4
+16g/JJ	.	5
+=60	=60	=60
+16f/LL	(8.cc\L	1
+16g/	.	5
+16e/	.	4
+16g/JJ	16b\Jk)	5
+16d/LL	4b\	3
+16g/	.	5
+16e/	.	4
+16g/JJ	.	5
+16f/LL	2r	2
+16g/	.	5
+16e/	.	4
+16g/JJ	.	5
+16f/LL	.	3
+16g/	.	5
+16d/	.	4
+16g/JJ	.	5
+=61	=61	=61
+16e/LL	(8gg\L	1
+16g/	.	5
+16e/	8ee\J)	4
+16g/JJ	.	5
+16e/LL	(4.cc\	3
+16g/	.	5
+16e/	.	4
+16g/JJ	.	5
+16e/LL	.	2
+16g/	.	5
+16e/	16dd\LL	4
+16g/JJ	16ee\JJ	5
+16e/LL	8dd\L)	3
+16g/	.	5
+16e/	8cc'\J	4
+16g/JJ	.	5
+=62	=62	=62
+16f/LL	(8.cc\L	1
+16g/	.	5
+16e/	.	4
+16g/JJ	16b\Jk)	5
+16d/LL	4b\	3
+16g/	.	5
+16e/	.	4
+16g/JJ	.	5
+16f/LL	2r	2
+16g/	.	5
+16e/	.	4
+16g/JJ	.	5
+16f/LL	.	3
+16g/	.	5
+16d/	.	4
+16g/JJ	.	5
+*clefF4	*	*
+=63	=63	=63
+16r	4gg\	1
+16E\LL	.	5
+16G\	.	4
+16c\JJ	.	5
+4e\	16r	3
+16r	4a/	2
+16F\LL	.	5
+16A\	.	4
+16c\JJ	.	5
+4f\	16r	3
+=64	=64	=64
+16r	4ff\	1
+16D\LL	.	5
+16F\	.	4
+16B\JJ	.	5
+4d\	16r	3
+16r	4g/	2
+16E\LL	.	5
+16G\	.	4
+16B\JJ	.	5
+4e\	16r	3
+*clefG2	*	*
+=65	=65	=65
+16r	4eee\	1
+16c/LL	.	5
+16e/	.	4
+16a/JJ	.	5
+4cc\	16r	3
+16r	4ff\	2
+16d/LL	.	5
+16f/	.	4
+16a/JJ	.	5
+4dd\	16r	3
+=66	=66	=66
+16r	4ddd\	1
+16B/LL	.	5
+16d/	.	4
+16g/JJ	.	5
+4b\	16r	3
+16r	4ee\	2
+16c/LL	.	5
+16e/	.	4
+16g/JJ	.	5
+4cc\	16r	3
+=67	=67	=67
+8r	2dd\	1
+8f/ 8a/L	.	4
+8f/ 8a/	.	3
+8f/ 8a/J	.	4
+8f/ 8a/L	4dd\)	2
+8f/ 8a/	.	4
+8f/ 8a/	4dd\)	3
+8f/ 8a/J	.	4
+*clefF4	*	*
+=68	=68	=68
+8r	2aa\	1
+8F#\ 8c\ 8e-\L	.	4
+8F#\ 8c\ 8e-\	.	3
+8F#\ 8c\ 8e-\J	.	4
+8F#\ 8c\ 8e-\L	4aa\	2
+8F#\ 8c\ 8e-\	.	4
+8F#\ 8c\ 8e-\	4aa\	3
+8F#\ 8c\ 8e-\J	.	4
+=69	=69	=69
+16G\LL	8ggn\L	1
+16en\	.	5
+16c\	16aa\L	4
+16e\JJ	16bb\JJ	5
+16G\LL	16ccc\LL	3
+16e\	16ddd\	5
+16c\	16eee\	4
+16e\JJ	16ddd\JJ	5
+16G\LL	16ccc\LL	2
+16e\	16bb\	5
+16c\	16aa\	4
+16e\JJ	16gg\JJ	5
+16G\LL	16ff\LL	3
+16e\	16ee\	5
+16c\	16dd\	4
+16e\JJ	16cc\JJ	5
+=70	=70	=70
+16G\LL	1dd	1
+16f\	.	5
+16B\	.	4
+16f\JJ	.	5
+16G\LL	.	3
+16f\	.	5
+16B\	.	4
+16f\JJ	.	5
+16G\LL	.	2
+16f\	.	5
+16B\	.	4
+16f\JJ	.	5
+16G\LL	.	3
+16f\	.	5
+16B\	.	4
+16f\JJ	.	5
+=71	=71	=71
+4c\ 4e\	4cc\	1
+4r	16cc\LL	3
+4r	16gg\LL	2
+4G\ 4d\ 4f\	16ff\LL	3
+=72	=72	=72
+4c\ 4e\	4cc\	1
+4r	16c/LL	3
+4r	16g/LL	2
+4GG/ 4D/ 4F/	16f/LL	3
+=73	=73	=73
+4C\ 4E\	4c/	1
+4C\ 4c\	4ee\ 4gg\ 4ccc\	3
+4CC/ 4C/	4cc\	2
+4r	4r	3
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
+!!!ONB: Ausgegeben 1878
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/10/26/
+!!!title: @{OTL}, @{SCT1}, @{OMV}
+!!!hum2abc: --no-tempo -s 0.65 --spacing 1.9 -p "%gracespace  0 6.0 12.0"

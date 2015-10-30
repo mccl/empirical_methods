@@ -1,0 +1,43 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 9 in D major
+!!!SCT1: K<sup>1</sup> 311
+!!!SCT2: K<sup>6</sup> 284c
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro con spirito
+!!!ODT: 1777///
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B]	*>[A,A,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M4/4	*M4/4	*M4/4
+*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+=1-	=1-	=1-
+4DD/ 4AA/ 4D/	4f#/ 4a/ 4dd/	1
+4r	4r	3
+*clefG2	*	*
+4d/ 4f#/	(16gg\LL	2
+4e/ 4g/	16aa\LL	3
+=2	=2	=2
+4f#/ 4a/	4aa\)	1
+4r	4r	3
+2r	8aa'\L	2
+*clefF4	*	*
+=3	=3	=3
+(8F#\L	(4aa\	1
+8d\	.	4
+8D\	4ff#\)	3
+8d\J	.	4
+8E\L	16aa\LL	2
+8d\	16ff#\	4
+8A\	8aa\L	3
+8c#\J)	8gg\J	4
+=4	=4	=4

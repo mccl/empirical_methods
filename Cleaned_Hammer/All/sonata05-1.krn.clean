@@ -1,0 +1,134 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 5 in G major
+!!!SCT1: K<sup>1</sup> 283
+!!!SCT2: K<sup>6</sup> 189h
+!!!OMV: Mvmt. 1
+!!!OMD: Allegro
+!!!ODT: 1774///
+**kern	**kern	**metpos
+*staff2	*staff1	*
+*>[A,A,B]	*>[A,A,B]	*
+*>norep[A,B]	*>norep[A,B]	*
+*>A	*>A	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/4	*M3/4	*M3/4
+*M3/4	*M3/4	*M3/4
+*tb32	*tb32	*tb32
+*tb32	*tb32	*tb32
+4r	(8.dd\L	2
+=1	=1	=1
+(8G\L	4dd\)	1
+8B\	.	3
+8d\	4r	2
+8B\	.	3
+8d\	(4g/	2
+8B\J	.	3
+=2	=2	=2
+8A\L	4f#/)	1
+8c\	.	3
+8d\	4r	2
+8c\	.	3
+8d\	(8.aa\L	2
+8c\J	.	3
+=3	=3	=3
+8F#\L	4aa\)	1
+8A\	.	3
+8d\	4r	2
+8A\	.	3
+8d\	(4cc\	2
+8A\J	.	3
+=4	=4	=4
+8G\L	4b\)	1
+8B\	.	3
+8d\	4r	2
+8B\J	.	3
+4G\)	(8.gg\L	2
+*clefG2	*	*
+=5	=5	=5
+2c/ 2g/	(8ff#\L	1
+4r	(8.gg\L	2
+=6	=6	=6
+2B/ 2g/	(8ee\L	1
+4r	(8.gg\L	2
+*clefF4	*	*
+=7	=7	=7
+4A\ (4c\	4dd'\	1
+4G\ 4B\	4dd'\	2
+4F#\ 4A\)	4dd'\	2
+=8	=8	=8
+4G\ 4B\	(16dd\LL	1
+4r	16aa\LL	2
+4E\ 4G\	16ccc\LL	2
+=9	=9	=9
+*^	*	*
+4r	4r	16ff#\LL	1
+(4G/	2D\	16b\LL	2
+4c/)	.	16a/LL	2
+=10	=10	=10	=10
+4B/	4G\	4g/)	1
+4GG/	2r	4r	2
+4r	.	(8.g/L	2
+*v	*v	*	*
+=11	=11	=11
+2C\ 2G\	(8f#/L	1
+4r	(8.g/L	2
+=12	=12	=12
+2BB\ 2G\	(8e/L	1
+4r	(8.gg\L	2
+=13	=13	=13
+4A\ (4c\	4dd'\	1
+4G\ 4B\	4dd'\	2
+4F#\ 4A\)	4dd'\	2
+=14	=14	=14
+4G\ 4B\	(16dd\LL	1
+4r	16aa\LL	2
+4E\ 4G\	16ccc\LL	2
+=15	=15	=15
+*^	*	*
+4r	4r	16ff#\LL	1
+(4G/	2D\	16b\LL	2
+4c/)	.	16a/LL	2
+=16	=16	=16	=16
+4B/	4G\	4g/)	1
+2r	8r	8r	2
+*v	*v	*	*
+=17	=17	=17
+4CC/ 4C/	4c/)	1
+8r	8r	2
+8AAA/ 8AA/L	(16A/LL	3
+8BBB/ 8BB/	16B/LL	2
+8CC/ 8C/J	16c/	3
+=18	=18	=18
+4DD/ 4D/	4d/)	1
+8r	8r	2
+8BBB/ 8BB/L	16B/LL	3
+8CC/ 8C/	16c/LL	2
+8DD/ 8D/J	16d/	3
+=19	=19	=19
+8EE/ 8E/L	16e/LL	1
+8DD/ 8D/	16d/	3
+8CC/ 8C/	16c/LL	2
+8DD/ 8D/	16d/	3
+8EE/ 8E/	16e/LL	2
+8FF#/ 8F#/J	16f#/	3
+=20	=20	=20
+8GG/ 8G/L	16g/LL	1
+8FF#/ 8F#/	16f#/	3
+8EE/ 8E/	16e/LL	2
+8FF#/ 8F#/	16f#/	3
+8GG/ 8G/	16g/LL	2
+8AA/ 8A/J	16a/	3
+=21	=21	=21
+8BB\ 8B\L	16b\LL	1
+8AA\ 8A\	16a\	3
+8GG\ 8G\	16g\LL	2
+8AA\ 8A\	16a\	3
+8BB\ 8B\	16b\LL	2
+8C#\ 8c#\J	16cc#\	3
+=22	=22	=22
+4D\ 4d\	4dd\)	1
+4DD/ 4D/	4d/	2
