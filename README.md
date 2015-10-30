@@ -3,6 +3,11 @@ SMT 2015 in St. Louis
 
 Here you can find the data and code for the empirical methods workshop at SMT 2015 (held on Friday night, 7:30-10:30).
 
+Humdrum
+===========
+
+We will be using Humdrum for our interactive workshop. It can be downloaded [here](http://www.humdrum.org/install/github/).
+
 Code
 =============
 
